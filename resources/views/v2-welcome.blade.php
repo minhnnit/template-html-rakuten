@@ -6,8 +6,24 @@
                 <div class="opacity-overlay h-v-centered" style="background: none;">
                     <div class="container-fixed pos-rel">
                         <div class="eb-is-rk blk clr f-white">
-                            <span class="eb-logo blk mar-15-r"
-                                  style="background:url(https://static.ebates.com/img/campaign/9354/ebates-solo-logo-white.svg);background-repeat:no-repeat;background-size:100%;"></span>
+                            <span class="eb-logo blk mar-15-r">
+                                <svg width="77px" height="30px" viewBox="0 0 77 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Ebates Solo Logo White</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-V2-B-Copy-2" transform="translate(-115.000000, -128.000000)" fill="#FFFFFF">
+            <g id="Group-3" transform="translate(115.000000, 126.000000)">
+                <g id="Ebates-Solo-Logo-White" transform="translate(0.000000, 2.000000)">
+                    <g id="Group-2">
+                        <path d="M31.3770914,17.9647856 C31.528193,19.7006678 30.3694783,21.0227872 28.8882568,21.0631977 L28.3945365,15.3811119 C29.8354131,15.2498991 31.2360054,16.3499428 31.3770914,17.9647856 Z M41.1509483,8.54844914 L41.1106034,8.54844914 L41.0501467,11.5358537 L40.8687864,16.208688 L42.9948399,16.0673827 L41.8058665,11.4954433 L41.1509483,8.54844914 Z M30.4802956,9.46683771 C30.3493059,7.97316571 29.0696171,7.00426411 27.6891872,7.12542475 L28.1224507,12.1817242 C29.4928549,12.1110766 30.6213815,11.0211253 30.4802956,9.46683771 Z M72.2458072,21.7292734 C71.4095287,22.7486274 70.2910378,23.3440555 69.0114095,23.4551136 C68.890496,23.4652162 68.6788771,23.4752582 68.3060703,23.4551136 L68.2959841,23.4551136 L66.0087427,23.3440454 L65.9683979,23.5560185 L65.7870376,23.5762237 L43.3979053,26.0690446 L42.5011196,25.8066291 C42.4910334,25.8873894 42.4910334,25.958037 42.4910334,25.958037 L42.4809472,26.1598974 L34.0472257,27.0984912 L34.0270533,27.0984912 L32.3342734,26.8158705 C31.3670052,27.2397965 30.2989353,27.5223566 29.1804445,27.6434668 L9.59244626,29.8133777 L9.53198948,29.7830698 L3.23440775,26.5635576 L3.20419951,26.4021077 C3.1941133,26.33145 3.18402709,26.119487 3.16385468,25.806619 L3.00266682,23.4247957 C2.9824944,23.1220303 2.94221003,22.4963045 2.94221003,22.4963045 L2.88175325,21.6384004 L-3.83693077e-13,21.214545 L1.34008509,13.6350564 L2.32758621,13.1506359 L2.2368708,11.8487216 C2.22678459,11.6872111 2.20667264,11.4652061 2.19658643,11.2633356 L2.08576914,9.54759801 C2.07568294,9.45680575 2.06559673,9.37604544 2.06559673,9.28518253 L1.89432266,6.65105638 L1.95477944,6.56019347 L7.51676332,0.71664763 L7.61755486,0.71664763 L26.9032188,0.686400363 C28.3239834,0.676297756 30.691854,0.666195149 32.7171664,2.28097732 L36.8383341,0.666195149 L43.9520824,0.645989934 L44.0327015,0.918508017 L44.6069906,0.656092541 L64.7592521,0.625845275 L64.799597,0.938713231 L66.0288547,0.635887327 C66.1296563,0.595537453 66.3110166,0.545084972 66.5125493,0.51477715 C66.7644525,0.464324669 67.026442,0.454222062 67.3085434,0.454222062 C68.4471462,0.484529884 69.5353885,0.888190102 70.6336565,1.69564174 L72.1249642,2.83609591 L72.1249642,3.03789574 C72.114878,4.55177295 72.0947056,9.48702273 72.114878,10.4256266 C73.1728616,11.9092565 73.4550235,12.9084054 73.7069268,14.9471136 L73.7169525,14.997566 C73.7169525,15.0278133 73.7270387,15.0682237 73.7270387,15.098471 C74.0293025,17.8335728 73.4952978,20.1851489 72.2458072,21.7292734 L72.2458072,21.7292734 Z M22.7620096,21.1640925 L16.3434539,21.6889235 L16.0512662,17.9243751 L20.7366872,17.6014046 L20.4344234,13.5947065 L15.7389163,13.8369168 L15.2854803,7.8924155 L21.4218742,7.72086294 L21.1095141,3.79486462 L10.8922974,3.93615982 L11.6278348,14.0488798 L9.66303963,14.1497847 L9.0080609,18.388651 L11.930159,18.1968932 L12.5246205,26.2405972 L22.0465741,25.2919613 L22.7620096,21.1640925 Z M34.9138233,18.176688 C34.752575,16.4104979 33.8255811,14.29109 32.293989,13.5643987 C33.5233072,12.4643449 33.9867689,11.0614752 33.8255811,9.26503787 C33.6744189,7.57954755 32.8784248,5.80325486 31.6088222,4.75365352 C30.3795645,3.72419683 28.7472313,3.69394956 27.3365528,3.70405217 L23.7091659,3.75450465 L25.4724888,24.938683 L29.0998757,24.5854651 C32.4148925,24.252402 35.2866301,22.2338991 34.9138233,18.176688 L34.9138233,18.176688 Z M47.1865405,19.135487 L48.3452553,19.034582 L47.3880732,15.7545147 L46.1990394,15.8352145 L42.4809472,3.51229439 L39.0450067,3.55264427 L37.7149474,16.4206005 L36.5058016,16.5013608 L36.1128829,20.0539462 L37.3421406,19.9529807 L36.9491614,23.7982288 L40.3347918,23.4752582 L40.6168831,19.6804626 L43.8513412,19.4080051 L44.8690405,23.0211455 L48.2546104,22.6880724 L47.1865405,19.135487 Z M52.1842611,6.83271155 L55.2071003,6.74190919 L54.8847145,3.35077379 L45.6852071,3.47188396 L45.987481,7.01436672 L49.1815943,6.92357446 L50.7837293,22.4357696 L53.7964823,22.1330042 L52.1842611,6.83271155 Z M64.729054,17.6720623 L60.5877743,18.015238 L60.2451556,14.9067233 L63.4594413,14.6847183 L63.0866245,11.3642406 L59.8723388,11.5358537 L59.3181818,6.62080911 L63.5501668,6.49963838 L63.1672738,3.23977631 L56.1442409,3.33063922 L57.0611386,11.6771085 L55.862079,11.7376636 L55.5900034,15.2195913 L57.4339554,15.0883886 L58.1493809,21.6989756 L64.3865058,21.0833423 L64.729054,17.6720623 Z M71.9436039,15.2397965 C71.4397974,10.6275072 67.6007915,10.5770547 67.3085434,7.74106815 C67.1977161,6.69140625 67.6209035,6.04553577 68.4068719,6.04553577 C68.9913077,6.03543316 69.5555609,6.38865099 70.0593674,6.84282425 L69.9988502,3.88572753 C69.2532266,3.34075192 68.507603,3.04802862 67.6914364,3.03792601 C65.49485,3.01778136 64.5376075,5.35925486 64.8197593,8.10438859 C65.0817488,10.6477225 66.1397324,11.9193894 67.7720555,13.2010984 C68.5579635,13.8672347 69.3943025,14.3314601 69.5353784,15.663672 C69.656292,16.8142288 69.0920287,17.5913726 68.2657759,17.6418251 C67.6108072,17.682175 67.0465439,17.4399647 66.4822806,17.0362338 C66.4822806,17.0564391 66.5528236,20.1548512 66.5528236,20.1548512 C67.2077922,20.6897242 68.1448724,20.931995 68.8703236,20.8714399 C71.2382546,20.6897141 72.2760658,18.2877561 71.9436039,15.2397965 Z" id="Shape" fill-rule="nonzero"></path>
+                        <path d="M76.9211823,1.92775949 C76.9211823,3.00765856 76.054635,3.86552231 74.9462606,3.86552231 C73.8378863,3.86552231 72.9612629,3.00765856 72.9612629,1.92775949 C72.9612629,0.847860414 73.8378863,8.91773079e-05 74.9563368,8.91773079e-05 C76.054635,-0.0100033374 76.9211823,0.837767899 76.9211823,1.92775949 L76.9211823,1.92775949 Z M73.4549933,1.92775949 C73.4549933,2.78562324 74.0998657,3.47191424 74.9563368,3.47191424 C75.7926556,3.48200676 76.4274519,2.78562324 76.4274519,1.94794452 C76.4274519,1.09008077 75.7926556,0.393697251 74.9361845,0.393697251 C74.0998556,0.383604737 73.4549832,1.07998825 73.4549933,1.92775949 L73.4549933,1.92775949 Z M74.6439666,2.92691845 L74.2006169,2.92691845 L74.2006169,0.98915562 C74.3719111,0.96897059 74.6238144,0.928600531 74.9361744,0.928600531 C75.2989151,0.928600531 75.4601332,0.98915562 75.5911229,1.07998825 C75.7120365,1.16072837 75.7926455,1.30202358 75.7926455,1.49378136 C75.7926455,1.72590919 75.6213513,1.88738943 75.3996764,1.95803703 L75.3996764,1.97822206 C75.5810468,2.03877715 75.6818081,2.19016487 75.7422649,2.44247774 C75.8027217,2.73516067 75.8430262,2.84617833 75.8833307,2.91682593 L75.4097526,2.91682593 C75.3492958,2.84617833 75.3190674,2.68469809 75.2586106,2.44247774 C75.2283822,2.24062744 75.1074687,2.14979481 74.8555654,2.14979481 L74.6439666,2.14979481 L74.6439666,2.92691845 Z M74.6540428,1.83692686 L74.8656415,1.83692686 C75.1074687,1.83692686 75.3089913,1.75618674 75.3089913,1.55433644 C75.3089913,1.38276369 75.1780016,1.26165352 74.8958699,1.26165352 C74.7749563,1.26165352 74.6943473,1.27174603 74.6540428,1.28183855 L74.6540428,1.83692686 Z" id="Shape" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+                            </span>
                             <a href="" data-click-category="R4 transition"
                                data-click-action="Click Ebates mention" data-event-signature="ec,ea"
                                data-ec="R4 transition" data-ea="Click Ebates mention"><span
@@ -69,7 +85,48 @@
                                                        data-ec="Desktop Home Page" data-ea="Cash Bonus - Click"
                                                        data-et="Desktop SU Step 1">
                                                     <div class="join-sprite sprite-ebatescard op5 mar-center rakuten"
-                                                         for="ebates"></div>
+                                                         for="ebates">
+                                                        <svg version="1.1" id="Layer_1"
+                                                             xmlns="http://www.w3.org/2000/svg"
+                                                             xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                                             width="77px" height="48px" viewBox="0 0 77 48"
+                                                             style="enable-background:new 0 0 77 48;"
+                                                             xml:space="preserve">
+<style type="text/css">
+    .st0 {
+        fill: url(#SVGID_1_);
+    }
+
+    .st1 {
+        opacity: 0.76;
+    }
+
+    .st2 {
+        fill: #FFFFFF;
+    }
+</style>
+                                                            <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse"
+                                                                            x1="0.50332" y1="45.9374" x2="76.49668"
+                                                                            y2="2.0626">
+                                                                <stop offset="0" style="stop-color:#5D5DA8"/>
+                                                                <stop offset="0.48936" style="stop-color:#7F228B"/>
+                                                                <stop offset="1" style="stop-color:#B14688"/>
+                                                            </linearGradient>
+                                                            <path class="st0"
+                                                                  d="M73,48H4c-2.2,0-4-1.8-4-4V4c0-2.2,1.8-4,4-4h69c2.2,0,4,1.8,4,4v40C77,46.2,75.2,48,73,48z"/>
+                                                            <g class="st1">
+                                                                <path class="st2" d="M14.75,11.49h3.19v1.62c1.32,0.08,2.39,0.27,3.32,0.48v3.53h-2.48c-0.38-0.76-0.94-1.26-2.14-1.26
+		c-1.15,0-1.76,0.34-1.76,1.09c0,0.73,0.8,0.92,2.18,1.28c3.38,0.92,4.68,1.91,4.68,4.72c0,2.56-1.39,4.09-4.24,4.53v2.33h-3.17
+		v-2.23c-1.55-0.06-2.62-0.25-3.78-0.46V23.3h2.56c0.36,0.88,0.9,1.32,2.29,1.32c1.07,0,1.7-0.36,1.7-1.09
+		c0-0.78-0.76-0.97-2.31-1.39c-2.27-0.52-4.22-1.41-4.22-4.58c0-2.67,1.6-4.03,4.18-4.41L14.75,11.49z"/>
+                                                                <path class="st2" d="M23.79,32.12h2.11c0.44,0,1.04-0.67,1.04-1.08V17.29l-2.04,1.15h-1.37v-4.89l5.63-2.82h6.45v20.31
+		c0,0.41,0.59,1.08,1,1.08h1.82v4.56H23.79V32.12z"/>
+                                                                <path class="st2" d="M38.45,23.71c0-8.75,5.71-13.38,12.34-13.38c6.67,0,12.38,4.63,12.38,13.38s-5.52,13.38-12.38,13.38
+		C43.98,37.08,38.45,32.45,38.45,23.71z M54.28,23.85c0-5.45-1.15-7.67-3.48-7.67s-3.45,2.22-3.45,7.67s1.11,7.78,3.45,7.78
+		S54.28,29.3,54.28,23.85z"/>
+                                                            </g>
+</svg>
+                                                    </div>
                                                     <div class="card-label ebates-10 lh-17 f-gry-c mar-15-t mar-10-b"
                                                          for="ebates">$10 Rakuten Cash Bonus
                                                     </div>
@@ -86,7 +143,8 @@
                                            data-et="Desktop SU Step 1" data-event-signature="ec,ea,et">
                                             <span class="fa-google"></span>Continue with Google
                                         </a>
-                                        <a class="fb-join button lg social fb mar-10-b dismiss-form-msg w-360" href=""                                            title="Continue with Facebook" tabindex="7" border="0"
+                                        <a class="fb-join button lg social fb mar-10-b dismiss-form-msg w-360" href=""
+                                           title="Continue with Facebook" tabindex="7" border="0"
                                            data-ec="Desktop Home Page" data-ea="Did someone refer you? - Click"
                                            data-et="Desktop SU Step 1" data-event-signature="ec,ea,et"
                                            style="opacity: 0;">
@@ -101,10 +159,11 @@
                                                  fb-iframe-plugin-query="app_id=214330088590858&amp;auto_logout_link=false&amp;button_type=continue_with&amp;container_width=6&amp;locale=en_US&amp;max_rows=1&amp;sdk=joey&amp;show_faces=false&amp;size=large&amp;use_continue_as=true&amp;width=354px">
                                                 <span style="vertical-align: bottom; width: 354px; height: 40px;"><iframe
                                                             name="f1bdfe8f6fef39" height="1000px"
-                                                            title="fb:login_button Facebook Social Plugin" frameborder="0"
-                                                            allowtransparency="true" allowfullscreen="true" scrolling="no"
+                                                            title="fb:login_button Facebook Social Plugin"
+                                                            frameborder="0"
+                                                            allowtransparency="true" allowfullscreen="true"
+                                                            scrolling="no"
                                                             allow="encrypted-media"
-                                                            src="html/login_button.html"
                                                             style="border: none; visibility: visible; width: 354px; height: 40px;"
                                                             class=""></iframe></span></div>
                                             <div id="fb-join-fac" class="pos-abs pointer ht-40"
@@ -216,9 +275,10 @@
                                                         type="hidden" name="terms" value="on"><input type="hidden"
                                                                                                      name="urlIdentifier"
                                                                                                      value="/|home-inlinesu - flash-sale-"><input
-                                                        type="hidden" name="type" value="home-inlinesu"><input type="hidden"
-                                                                                                               name="ebates.signup.promo"
-                                                                                                               value="WALMART10-201210"><input
+                                                        type="hidden" name="type" value="home-inlinesu"><input
+                                                        type="hidden"
+                                                        name="ebates.signup.promo"
+                                                        value="WALMART10-201210"><input
                                                         type="hidden" name="_csrf"
                                                         value="275eaabe-32b1-471c-beb3-c90dbc398cd6"
                                                         class="eb-sec-token required-field"><input type="hidden"
@@ -802,7 +862,7 @@
 
             <div class="welcome-logos container-fluid blk-reg overflow-0">
                 <div class="container-fixed">
-                    <img class="bblk lazy pad-35-tb" src="images/logos.1.0.0.png"
+                    <img class="bblk lazy pad-35-tb" src="{{url("/images/logos.1.0.0.png")}}"
                          alt="Earn Cash Back at Amazon Ebay Walmart Macy&#39;s" title="Earn Cash Back" width="611"
                          height="36" style="display: block;">
                 </div>
@@ -817,7 +877,7 @@
                             store, promo code or deal.</p>
                     </div>
                     <div class="start-shopping-img bblk frt mar-40-r">
-                        <img class="lazy bblk" src="images/r4-sign-up-1.png"
+                        <img class="lazy bblk" src="{{url("/images/r4-sign-up-1.png")}}"
                              alt="Shop through Rakuten" title="Shop through Rakuten" width="459" height="202"
                              style="display: block;">
                     </div>
@@ -827,7 +887,7 @@
             <div class="earn-cash-back container-fluid pad-50-tb">
                 <div class="container-fixed">
                     <div class="earn-cash-back-img flt">
-                        <img class="lazy bblk" src="images/r4-sign-up-2.png"
+                        <img class="lazy bblk" src="{{url("/images/r4-sign-up-2.png")}}"
                              alt="Earn Cash Back" title="Earn Cash Back" width="443" height="242"
                              style="display: block;">
                     </div>
@@ -850,7 +910,7 @@
                         </div>
                     </div>
                     <img class="lazy bblk flt"
-                         src="images/desktop_su_checkimage-rakuten.png"
+                         src="{{url("/images/desktop_su_checkimage-rakuten.png")}}"
                          alt="Get your Big Fat Check" title="Get your Big Fat Check" width="601" height="285"
                          style="display: block;">
                 </div>
@@ -890,7 +950,7 @@
 
                         <ul class="hp-promo-row blk-group cols-6">
                             <li class="promo-block blk col b-box blk-reg mar-10-b border overflow-0 ht-136"
-                                style="background:url(https://static.ebates.com/img/page_component/17122/desk_catlab_fooddrink.png) no-repeat center center; height:100%;background-size:cover;">
+                                style="background:url({{url("/images/desk_catlab_fooddrink.png")}}) no-repeat center center; height:100%;background-size:cover;">
                             </li>
                             <li class="promo-block blk col b-box blk-reg mar-10-b center bg-hover border ht-136">
                                 <a data-shopping-url="/postmates.com_16891-xfas"
@@ -902,7 +962,7 @@
                                    data-ea="Click featured promotion store card" data-el="Postmates">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27_a.gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27_a.gif")}}"
                          alt="Postmates"
                          title="Get a great deal from Postmates plus Up to $9.00 Cash Back from Rakuten!"
                          style="display: inline;">
@@ -933,7 +993,7 @@
                                    data-ea="Click featured promotion store card" data-el="ButcherBox">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27.gif")}}"
                          alt="ButcherBox" title="Get a great deal from ButcherBox plus $8.00 Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -963,7 +1023,7 @@
                                    data-ea="Click featured promotion store card" data-el="Purple Carrot">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(1).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(1).gif")}}"
                          alt="Purple Carrot"
                          title="Get a great deal from Purple Carrot plus $10.00 Cash Back from Rakuten!"
                          style="display: inline;">
@@ -994,7 +1054,7 @@
                                    data-ea="Click featured promotion store card" data-el="Omaha Steaks">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/small_icon_omaha.gif"
+                    <img class="lazy logo" src="{{url("/images/small_icon_omaha.gif")}}"
                          alt="Omaha Steaks" title="Get a great deal from Omaha Steaks plus 7.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1024,7 +1084,7 @@
                                    data-ea="Click featured promotion store card" data-el="hint">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(2).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(2).gif")}}"
                          alt="hint" title="Get a great deal from hint plus 8.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1054,7 +1114,7 @@
                                    data-ea="Click featured promotion store card" data-el="Bulletproof">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(3).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(3).gif")}}"
                          alt="Bulletproof" title="Get a great deal from Bulletproof plus 4.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1084,7 +1144,7 @@
                                    data-ea="Click featured promotion store card" data-el="Wine.com">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/wine_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/wine_icon_100x27.gif")}}"
                          alt="Wine.com" title="Get a great deal from Wine.com plus 5.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1114,7 +1174,7 @@
                                    data-ea="Click featured promotion store card" data-el="MealPal">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(4).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(4).gif")}}"
                          alt="MealPal" title="Get a great deal from MealPal plus 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1144,7 +1204,7 @@
                                    data-ea="Click featured promotion store card" data-el="SodaStream">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(5).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(5).gif")}}"
                          alt="SodaStream" title="Get a great deal from SodaStream plus 5.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1174,7 +1234,7 @@
                                    data-ea="Click featured promotion store card" data-el="Sakara Life">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(6).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(6).gif")}}"
                          alt="Sakara Life" title="Get a great deal from Sakara Life plus 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1205,7 +1265,7 @@
                                    data-el="See&#39;s Candies">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/small_icon_sees.gif"
+                    <img class="lazy logo" src="{{url("/images/small_icon_sees.gif")}}"
                          alt="See&#39;s Candies"
                          title="Get a great deal from See&#39;s Candies plus 8.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1230,7 +1290,7 @@
 
                         <ul class="hp-promo-row blk-group cols-6">
                             <li class="promo-block blk col b-box blk-reg mar-10-b border overflow-0 ht-136"
-                                style="background:url(https://static.ebates.com/img/page_component/17123/desk_catlab_edm.png) no-repeat center center; height:100%;background-size:cover;">
+                                style="background:url({{url("/images/desk_catlab_edm.png")}}) no-repeat center center; height:100%;background-size:cover;">
                             </li>
                             <li class="promo-block blk col b-box blk-reg mar-10-b center bg-hover border ht-136">
                                 <a data-shopping-url="/kidsdiscover.com_18215-xfas"
@@ -1242,7 +1302,7 @@
                                    data-ea="Click featured promotion store card" data-el="Kids Discover">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(7).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(7).gif")}}"
                          alt="Kids Discover"
                          title="Get a great deal from Kids Discover plus 6.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1273,7 +1333,7 @@
                                    data-ea="Click featured promotion store card" data-el="Udemy">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(8).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(8).gif")}}"
                          alt="Udemy" title="Get a great deal from Udemy plus 15.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1304,7 +1364,7 @@
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
                     <img class="lazy logo"
-                         src="images/small_icon_rosettastone1.gif"
+                         src="{{url("/images/small_icon_rosettastone1.gif")}}"
                          alt="Rosetta Stone"
                          title="Get a great deal from Rosetta Stone plus 7.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1335,7 +1395,7 @@
                                    data-ea="Click featured promotion store card" data-el="Magazines.com">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(9).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(9).gif")}}"
                          alt="Magazines.com"
                          title="Get a great deal from Magazines.com plus 50.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1366,7 +1426,7 @@
                                    data-ea="Click featured promotion store card" data-el="Coursera">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/coursera_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/coursera_icon_100x27.gif")}}"
                          alt="Coursera" title="Get a great deal from Coursera plus 20.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1396,7 +1456,7 @@
                                    data-ea="Click featured promotion store card" data-el="Alibris">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-100x27b.gif"
+                    <img class="lazy logo" src="{{url("/images/icon-100x27b.gif")}}"
                          alt="Alibris" title="Get a great deal from Alibris plus 5.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1427,7 +1487,7 @@
                                    data-el="TIDAL Music Streaming">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(10).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(10).gif")}}"
                          alt="TIDAL Music Streaming"
                          title="Get a great deal from TIDAL Music Streaming plus $8.00 Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1458,7 +1518,7 @@
                                    data-ea="Click featured promotion store card" data-el="360Training">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(11).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(11).gif")}}"
                          alt="360Training" title="Get a great deal from 360Training plus 20.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1488,7 +1548,7 @@
                                    data-ea="Click featured promotion store card" data-el="BooksAMillion">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/icon-100x27.gif")}}"
                          alt="BooksAMillion"
                          title="Get a great deal from BooksAMillion plus 5.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1520,7 +1580,7 @@
                                    data-el="The New York Times Store">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-100x27-2.gif"
+                    <img class="lazy logo" src="{{url("/images/icon-100x27-2.gif")}}"
                          alt="The New York Times Store"
                          title="Get a great deal from The New York Times Store plus 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1551,7 +1611,7 @@
                                    data-ea="Click featured promotion store card" data-el="VitalSource">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-100x27-2(1).gif"
+                    <img class="lazy logo" src="{{url("/images/icon-100x27-2(1).gif")}}"
                          alt="VitalSource" title="Get a great deal from VitalSource plus 4.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1575,7 +1635,7 @@
 
                         <ul class="hp-promo-row blk-group cols-6">
                             <li class="promo-block blk col b-box blk-reg mar-10-b border overflow-0 ht-136"
-                                style="background:url(https://static.ebates.com/img/page_component/17124/desk_catlab_health.png) no-repeat center center; height:100%;background-size:cover;">
+                                style="background:url({{url("/images/desk_catlab_health.png")}}) no-repeat center center; height:100%;background-size:cover;">
                             </li>
                             <li class="promo-block blk col b-box blk-reg mar-10-b center bg-hover border ht-136">
                                 <a data-shopping-url="/nike.com_9528-xfas"
@@ -1587,7 +1647,7 @@
                                    data-ea="Click featured promotion store card" data-el="Nike">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-100x27(1).gif"
+                    <img class="lazy logo" src="{{url("/images/icon-100x27(1).gif")}}"
                          alt="Nike" title="Get a great deal from Nike plus 8.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1614,7 +1674,7 @@
                                    data-ea="Click featured promotion store card" data-el="lululemon">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/lululemon_icon_100x27c.gif"
+                    <img class="lazy logo" src="{{url("/images/lululemon_icon_100x27c.gif")}}"
                          alt="lululemon" title="Get a great deal from lululemon plus 11.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1644,7 +1704,7 @@
                                    data-ea="Click featured promotion store card" data-el="adidas">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(12).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(12).gif")}}"
                          alt="adidas" title="Get a great deal from adidas plus 4.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1675,7 +1735,7 @@
                                    data-el="EyeBuyDirect.com">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-100x27(2).gif"
+                    <img class="lazy logo" src="{{url("/images/icon-100x27(2).gif")}}"
                          alt="EyeBuyDirect.com"
                          title="Get a great deal from EyeBuyDirect.com plus 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1706,7 +1766,7 @@
                                    data-ea="Click featured promotion store card" data-el="TRX Training">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/trx_icon-100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/trx_icon-100x27.gif")}}"
                          alt="TRX Training" title="Get a great deal from TRX Training plus 8.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1737,7 +1797,7 @@
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
                     <img class="lazy logo"
-                         src="images/backcountry_icon_100x27.gif"
+                         src="{{url("/images/backcountry_icon_100x27.gif")}}"
                          alt="Backcountry.com"
                          title="Get a great deal from Backcountry.com plus 7.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1768,7 +1828,7 @@
                                    data-ea="Click featured promotion store card" data-el="iHerb">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(13).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(13).gif")}}"
                          alt="iHerb" title="Get a great deal from iHerb plus 4.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1799,7 +1859,7 @@
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
                     <img class="lazy logo"
-                         src="images/small_icon_zennioptical.gif"
+                         src="{{url("/images/small_icon_zennioptical.gif")}}"
                          alt="Zenni Optical"
                          title="Get a great deal from Zenni Optical plus 4.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1830,7 +1890,7 @@
                                    data-ea="Click featured promotion store card" data-el="EverlyWell">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27n.gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27n.gif")}}"
                          alt="EverlyWell" title="Get a great deal from EverlyWell plus 6.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1860,7 +1920,7 @@
                                    data-ea="Click featured promotion store card" data-el="Swanson">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/shp_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/shp_icon_100x27.gif")}}"
                          alt="Swanson" title="Get a great deal from Swanson plus 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1890,7 +1950,7 @@
                                    data-ea="Click featured promotion store card" data-el="Beachbody">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(14).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(14).gif")}}"
                          alt="Beachbody" title="Get a great deal from Beachbody plus 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1914,7 +1974,7 @@
 
                         <ul class="hp-promo-row blk-group cols-6">
                             <li class="promo-block blk col b-box blk-reg mar-10-b border overflow-0 ht-136"
-                                style="background:url(https://static.ebates.com/img/page_component/17125/desk_catlab_home.png) no-repeat center center; height:100%;background-size:cover;">
+                                style="background:url({{url("/images/desk_catlab_home.png")}}) no-repeat center center; height:100%;background-size:cover;">
                             </li>
                             <li class="promo-block blk col b-box blk-reg mar-10-b center bg-hover border ht-136">
                                 <a data-shopping-url="/qvc.com_8378-xfas"
@@ -1926,7 +1986,7 @@
                                    data-ea="Click featured promotion store card" data-el="QVC">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/qvc_icon_100x27a.gif"
+                    <img class="lazy logo" src="{{url("/images/qvc_icon_100x27a.gif")}}"
                          alt="QVC" title="Get a great deal from QVC plus 3.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -1956,7 +2016,7 @@
                                    data-ea="Click featured promotion store card" data-el="FedEx Office">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(15).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(15).gif")}}"
                          alt="FedEx Office"
                          title="Get a great deal from FedEx Office plus Up to 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -1988,7 +2048,7 @@
                                    data-el="InkCartridges.com">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(16).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(16).gif")}}"
                          alt="InkCartridges.com"
                          title="Get a great deal from InkCartridges.com plus Up to 18.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2019,7 +2079,7 @@
                                    data-ea="Click featured promotion store card" data-el="Ace Hardware">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/small_icon_ace.gif"
+                    <img class="lazy logo" src="{{url("/images/small_icon_ace.gif")}}"
                          alt="Ace Hardware" title="Get a great deal from Ace Hardware plus 5.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2050,7 +2110,7 @@
                                    data-el="Cost Plus World Market">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/small_icon_costplus.gif"
+                    <img class="lazy logo" src="{{url("/images/small_icon_costplus.gif")}}"
                          alt="Cost Plus World Market"
                          title="Get a great deal from Cost Plus World Market plus 8.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2081,7 +2141,7 @@
                                    data-ea="Click featured promotion store card" data-el="Jabra">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/jabra_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/jabra_icon_100x27.gif")}}"
                          alt="Jabra" title="Get a great deal from Jabra plus 12.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2113,7 +2173,7 @@
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
                     <img class="lazy logo"
-                         src="images/overnightprints_icon_00x27.gif"
+                         src="{{url("/images/overnightprints_icon_00x27.gif")}}"
                          alt="Overnight Prints"
                          title="Get a great deal from Overnight Prints plus 20.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2146,7 +2206,7 @@
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
                     <img class="lazy logo"
-                         src="images/grovecollaborative_icon_100x27.gif"
+                         src="{{url("/images/grovecollaborative_icon_100x27.gif")}}"
                          alt="Grove Collaborative"
                          title="Get a great deal from Grove Collaborative plus Up to $4.00 Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2177,7 +2237,7 @@
                                    data-ea="Click featured promotion store card" data-el="ReStockIt">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/small_icon_restockit.gif"
+                    <img class="lazy logo" src="{{url("/images/small_icon_restockit.gif")}}"
                          alt="ReStockIt" title="Get a great deal from ReStockIt plus 6.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2207,7 +2267,7 @@
                                    data-ea="Click featured promotion store card" data-el="Hydro Flask">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/hydroflask_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/hydroflask_icon_100x27.gif")}}"
                          alt="Hydro Flask" title="Get a great deal from Hydro Flask plus 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2237,7 +2297,7 @@
                                    data-ea="Click featured promotion store card" data-el="Mixbook">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/mixbook_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/mixbook_icon_100x27.gif")}}"
                          alt="Mixbook" title="Get a great deal from Mixbook plus 12.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2261,7 +2321,7 @@
 
                         <ul class="hp-promo-row blk-group cols-6">
                             <li class="promo-block blk col b-box blk-reg mar-10-b border overflow-0 ht-136"
-                                style="background:url(https://static.ebates.com/img/page_component/17136/desk_catlab_family.png) no-repeat center center; height:100%;background-size:cover;">
+                                style="background:url({{url("/images/desk_catlab_family.png")}}) no-repeat center center; height:100%;background-size:cover;">
                             </li>
                             <li class="promo-block blk col b-box blk-reg mar-10-b center bg-hover border ht-136">
                                 <a data-shopping-url="/jcrewfactory.com_11559-xfas"
@@ -2273,7 +2333,7 @@
                                    data-ea="Click featured promotion store card" data-el="J.Crew Factory">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(17).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(17).gif")}}"
                          alt="J.Crew Factory"
                          title="Get a great deal from J.Crew Factory plus 4.5% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2304,7 +2364,7 @@
                                    data-ea="Click featured promotion store card" data-el="TOMS">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/toms_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/toms_icon_100x27.gif")}}"
                          alt="TOMS" title="Get a great deal from TOMS plus 8.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2336,7 +2396,7 @@
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
                     <img class="lazy logo"
-                         src="images/littlepassports_icon_100x27.gif"
+                         src="{{url("/images/littlepassports_icon_100x27.gif")}}"
                          alt="Little Passports"
                          title="Get a great deal from Little Passports plus 4.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2368,7 +2428,7 @@
                                    data-el="The Honest Company">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-100x27(3).gif"
+                    <img class="lazy logo" src="{{url("/images/icon-100x27(3).gif")}}"
                          alt="The Honest Company"
                          title="Get a great deal from The Honest Company plus 8.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2400,7 +2460,7 @@
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
                     <img class="lazy logo"
-                         src="images/entirelypets_icon_100x27.gif"
+                         src="{{url("/images/entirelypets_icon_100x27.gif")}}"
                          alt="Entirely Pets"
                          title="Get a great deal from Entirely Pets plus 6.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2431,7 +2491,7 @@
                                    data-ea="Click featured promotion store card" data-el="Skip Hop">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/skiphop_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/skiphop_icon_100x27.gif")}}"
                          alt="Skip Hop" title="Get a great deal from Skip Hop plus 2.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2461,7 +2521,7 @@
                                    data-ea="Click featured promotion store card" data-el="StrideRite">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-100x27(4).gif"
+                    <img class="lazy logo" src="{{url("/images/icon-100x27(4).gif")}}"
                          alt="StrideRite" title="Get a great deal from StrideRite plus 4.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2492,7 +2552,7 @@
                                    data-el="Best Bully Sticks">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(18).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(18).gif")}}"
                          alt="Best Bully Sticks"
                          title="Get a great deal from Best Bully Sticks plus 6.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2523,7 +2583,7 @@
                                    data-ea="Click featured promotion store card" data-el="KiwiCo">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/ki_100x27.gif" alt="KiwiCo"
+                    <img class="lazy logo" src="{{url("/images/ki_100x27.gif")}}" alt="KiwiCo"
                          title="Get a great deal from KiwiCo plus Up to 15.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2553,7 +2613,7 @@
                                    data-ea="Click featured promotion store card" data-el="Carter&#39;s">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-100x27(5).gif"
+                    <img class="lazy logo" src="{{url("/images/icon-100x27(5).gif")}}"
                          alt="Carter&#39;s" title="Get a great deal from Carter&#39;s plus 2.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2584,7 +2644,7 @@
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
                     <img class="lazy logo"
-                         src="images/babobotanicals_icon_100x27.gif"
+                         src="{{url("/images/babobotanicals_icon_100x27.gif")}}"
                          alt="Babo Botanicals"
                          title="Get a great deal from Babo Botanicals plus 8.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2609,7 +2669,7 @@
 
                         <ul class="hp-promo-row blk-group cols-6">
                             <li class="promo-block blk col b-box blk-reg mar-10-b border overflow-0 ht-136"
-                                style="background:url(https://static.ebates.com/img/page_component/17137/desk_catlab_beauty.png) no-repeat center center; height:100%;background-size:cover;">
+                                style="background:url({{url("/images/desk_catlab_beauty.png")}}) no-repeat center center; height:100%;background-size:cover;">
                             </li>
                             <li class="promo-block blk col b-box blk-reg mar-10-b center bg-hover border ht-136">
                                 <a data-shopping-url="/kohls.com_7206-xfas"
@@ -2621,7 +2681,7 @@
                                    data-ea="Click featured promotion store card" data-el="Kohl&#39;s">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-kohls1.gif"
+                    <img class="lazy logo" src="{{url("/images/icon-kohls1.gif")}}"
                          alt="Kohl&#39;s" title="Get a great deal from Kohl&#39;s plus 6.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2651,7 +2711,7 @@
                                    data-ea="Click featured promotion store card" data-el="Gap">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/gap_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/gap_icon_100x27.gif")}}"
                          alt="Gap" title="Get a great deal from Gap plus 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2681,7 +2741,7 @@
                                    data-ea="Click featured promotion store card" data-el="MATCHESFASHION">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(19).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(19).gif")}}"
                          alt="MATCHESFASHION"
                          title="Get a great deal from MATCHESFASHION plus 7.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2712,7 +2772,7 @@
                                    data-ea="Click featured promotion store card" data-el="bluemercury">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-110x27.gif"
+                    <img class="lazy logo" src="{{url("/images/icon-110x27.gif")}}"
                          alt="bluemercury" title="Get a great deal from bluemercury plus 8.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2742,7 +2802,7 @@
                                    data-ea="Click featured promotion store card" data-el="Ted Baker">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon_100x27(20).gif"
+                    <img class="lazy logo" src="{{url("/images/icon_100x27(20).gif")}}"
                          alt="Ted Baker" title="Get a great deal from Ted Baker plus 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2772,7 +2832,7 @@
                                    data-ea="Click featured promotion store card" data-el="boohoo">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/boohoo_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/boohoo_icon_100x27.gif")}}"
                          alt="boohoo" title="Get a great deal from boohoo plus 6.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2802,7 +2862,7 @@
                                    data-ea="Click featured promotion store card" data-el="EXPRESS">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/icon-100x27(6).gif"
+                    <img class="lazy logo" src="{{url("/images/icon-100x27(6).gif")}}"
                          alt="EXPRESS" title="Get a great deal from EXPRESS plus 6.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2833,7 +2893,7 @@
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
                     <img class="lazy logo"
-                         src="images/the_body_shop_icon_100x27.gif"
+                         src="{{url("/images/the_body_shop_icon_100x27.gif")}}"
                          alt="The Body Shop"
                          title="Get a great deal from The Body Shop plus 5.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2864,7 +2924,7 @@
                                    data-ea="Click featured promotion store card" data-el="Credo">
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
-                    <img class="lazy logo" src="images/credo_icon_100x27.gif"
+                    <img class="lazy logo" src="{{url("/images/credo_icon_100x27.gif")}}"
                          alt="Credo" title="Get a great deal from Credo plus 8.0% Cash Back from Rakuten!"
                          style="display: inline;">
                 </span>
@@ -2896,7 +2956,7 @@
             <span class="blk pos-rel pad-10-lr pad-5-t">
                 <span class="img-wrap bblk mar-15-b ht-27">
                     <img class="lazy logo"
-                         src="images/dollarshaveclub_icon_100x27.gif"
+                         src="{{url("/images/dollarshaveclub_icon_100x27.gif")}}"
                          alt="Dollar Shave Club"
                          title="Get a great deal from Dollar Shave Club plus 10.0% Cash Back from Rakuten!"
                          style="display: inline;">
@@ -2924,7 +2984,7 @@
                                    data-event-signature="ec,ea" data-ec="Homepage"
                                    data-ea="Click featured promotion see all stores">
                                     <span class="blk cb-x-img-blk blk-reg nohover pos-rel overflow-0 "
-                                          style="background:url(https://static.ebates.com/img/campaign/11051/seeallstores.png) no-repeat center center;height:100%;background-size:cover;"></span>
+                                          style="background:url({{url("/images/seeallstores.png")}}) no-repeat center center;height:100%;background-size:cover;"></span>
                                 </a>
                             </li>
                         </ul>
@@ -2983,7 +3043,8 @@
                             <h2 class="section-heading">Shop Featured Double Cash Back Stores <a
                                         href="" data-navigation-id="22769"
                                         class="nohover" data-click-category="Homepage"
-                                        data-click-action="Click featured promotion see all stores">See All Stores</a></h2>
+                                        data-click-action="Click featured promotion see all stores">See All Stores</a>
+                            </h2>
                         </div>
                         <ul class="hp-promo-row blk-group cols-6 flex al-stretch">
 
@@ -2996,7 +3057,7 @@
                             <span class="blk pos-rel pad-20 pad-30-t ">
                                 <span class="img-wrap bblk mar-10-b ht-27">
                                 <img class="lazy logo"
-                                     src="images/small_icon_moosejaw.gif"
+                                     src="{{url("/images/small_icon_moosejaw.gif")}}"
                                      alt="Moosejaw"
                                      title="Get a great deal from Moosejaw plus 9.0% Cash Back from Rakuten!"
                                      style="display: inline;">
@@ -3027,7 +3088,7 @@
                             <span class="blk pos-rel pad-20 pad-30-t ">
                                 <span class="img-wrap bblk mar-10-b ht-27">
                                 <img class="lazy logo"
-                                     src="images/icon_100x27(21).gif"
+                                     src="{{url("/images/icon_100x27(21).gif")}}"
                                      alt="Belk.com"
                                      title="Get a great deal from Belk.com plus 4.0% Cash Back from Rakuten!"
                                      style="display: inline;">
@@ -3058,7 +3119,7 @@
                             <span class="blk pos-rel pad-20 pad-30-t ">
                                 <span class="img-wrap bblk mar-10-b ht-27">
                                 <img class="lazy logo"
-                                     src="images/icon_100x271.gif" alt="Verishop"
+                                     src="{{url("/images/icon_100x271.gif")}}" alt="Verishop"
                                      title="Get a great deal from Verishop plus 10.0% Cash Back from Rakuten!"
                                      style="display: inline;">
                                 </span>
@@ -3089,7 +3150,7 @@
                             <span class="blk pos-rel pad-20 pad-30-t ">
                                 <span class="img-wrap bblk mar-10-b ht-27">
                                 <img class="lazy logo"
-                                     src="images/icon_100x27(22).gif"
+                                     src="{{url("/images/icon_100x27(22).gif")}}"
                                      alt="Neiman Marcus Last Call"
                                      title="Get a great deal from Neiman Marcus Last Call plus 4.0% Cash Back from Rakuten!"
                                      style="display: inline;">
@@ -3121,7 +3182,7 @@
                             <span class="blk pos-rel pad-20 pad-30-t ">
                                 <span class="img-wrap bblk mar-10-b ht-27">
                                 <img class="lazy logo"
-                                     src="images/urbanoutfitters_icon_100x27.gif"
+                                     src="{{url("/images/urbanoutfitters_icon_100x27.gif")}}"
                                      alt="Urban Outfitters"
                                      title="Get a great deal from Urban Outfitters plus Up to 6.5% Cash Back from Rakuten!"
                                      style="display: inline;">
@@ -3153,7 +3214,7 @@
                             <span class="blk pos-rel pad-20 pad-30-t ">
                                 <span class="img-wrap bblk mar-10-b ht-27">
                                 <img class="lazy logo"
-                                     src="images/icon_100x27(23).gif"
+                                     src="{{url("/images/icon_100x27(23).gif")}}"
                                      alt="Sunglass Hut"
                                      title="Get a great deal from Sunglass Hut plus 8.0% Cash Back from Rakuten!"
                                      style="display: inline;">
@@ -3197,7 +3258,7 @@
                                         <div class="col blk prime-grid boosted-grid mar-20-r empty-blk prod-first-block"></div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3207,7 +3268,7 @@
                                                data-ea="Homepage boosted cash back card - click" data-el="Kohl's">
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Trending</div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002202/kohls_166x166.png"
+                                                     src="{{url("/images/kohls_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">6.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3218,7 +3279,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3228,7 +3289,7 @@
                                                data-ea="Homepage boosted cash back card - click" data-el="Belk.com">
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Apparel</div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002203/belk_166x166.png"
+                                                     src="{{url("/images/belk_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">4.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3239,7 +3300,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3249,7 +3310,7 @@
                                                data-ea="Homepage boosted cash back card - click" data-el="bluemercury">
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Beauty</div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002204/bluemercury_166x166.png"
+                                                     src="{{url("/images/bluemercury_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">8.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3260,7 +3321,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3270,7 +3331,7 @@
                                                data-ea="Homepage boosted cash back card - click" data-el="QVC">
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Home</div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002205/qvc_166x166.png"
+                                                     src="{{url("/images/qvc_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">3.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3281,7 +3342,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3292,7 +3353,7 @@
                                                data-el="MATCHESFASHION">
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Luxury</div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002206/matchesfashion-166x166.png"
+                                                     src="{{url("/images/qvc_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">7.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3303,7 +3364,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3313,7 +3374,7 @@
                                                data-ea="Homepage boosted cash back card - click" data-el="Moosejaw">
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Sports</div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002207/moosejaw_166x166.png"
+                                                     src="{{url("/images/qvc_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">9.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3324,7 +3385,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3335,7 +3396,7 @@
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Electronics
                                                 </div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002208/lenovo_166x166.png"
+                                                     src="{{url("/images/qvc_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">7.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3346,7 +3407,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3356,7 +3417,7 @@
                                                data-ea="Homepage boosted cash back card - click" data-el="Quill.com">
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Office</div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002209/quill_166x166.png"
+                                                     src="{{url("/images/qvc_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">3.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3367,7 +3428,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3377,7 +3438,7 @@
                                                data-ea="Homepage boosted cash back card - click" data-el="Gap">
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Family</div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002210/gap_166x166.png"
+                                                     src="{{url("/images/qvc_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">10.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3388,7 +3449,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3398,7 +3459,7 @@
                                                data-ea="Homepage boosted cash back card - click" data-el="lululemon">
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Apparel</div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002211/lululemon_166x166.png"
+                                                     src="{{url("/images/qvc_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">11.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3409,7 +3470,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3419,7 +3480,7 @@
                                                data-ea="Homepage boosted cash back card - click" data-el="Nike">
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Shoes</div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002212/nike_166x166.png"
+                                                     src="{{url("/images/qvc_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">8.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3430,7 +3491,7 @@
                                         </div>
 
                                         <div class="col blk prime-grid boosted-grid f-cent prod-last-block ">
-                                            <a href=""                                                rel="nofollow" data-navigation-id="23702" target="_blank"
+                                            <a href="" rel="nofollow" data-navigation-id="23702" target="_blank"
                                                class="pointer blk pad-30-tb nohover"
                                                data-amp-evt-sig="module_name,module_type,store_id,store_name,starts_shopping"
                                                data-amp-evt-type="Click Module"
@@ -3441,7 +3502,7 @@
                                                 <div class="bblk f-b f-16 lh-20 center f-norm mar-20-b">Accessories
                                                 </div>
                                                 <img class="lazy bblk mar-center mar-20-b cat-image"
-                                                     src="https://static.ebates.com/img/campaign_entity/23002213/zappos_166x166.png"
+                                                     src="{{url("/images/qvc_166x166.png")}}"
                                                      style="display: block;">
                                                 <div class="cb pad-20-lr mar-5-b">5.0% Cash Back</div>
                                                 <div class="was_rebate bblk f-12 lh-1 ht-12 f-gry-dk-8">
@@ -3460,7 +3521,7 @@
                     </span>
                             </div>
                             <div class="col blk prod-img-block pos-abs">
-                                <img class="lazy" src="https://static.ebates.com/img/campaign/9528/hero.png"
+                                <img class="lazy" src="{{url("/images/hero.png")}}"
                                      style="display: inline;">
                             </div>
                         </div>
@@ -3511,17 +3572,17 @@
                                    data-ec="Desktop Home Page" data-ea="Featured Daily Deals - Click"
                                    data-el="Belk.com">
                     <span class="small-banner">
-                        <img class="lazy" src="images/belk_hpphd_091619.jpg"
+                        <img class="lazy" src="{{url("/images/belk_hpphd_091619.jpg")}}"
                              alt="Belk.com" title="Get a great deal from Belk.com plus 4.0% Cash Back from Rakuten!"
                              width="224" height="150" style="display: inline;">
                     </span>
                                     <span class="logos">
-                        <img class="lazy" src="images/icon_100x27(21).gif"
+                        <img class="lazy" src="{{url("/images/icon_100x27(21).gif")}}"
                              alt="Belk.com" title="Get a great deal from Belk.com plus 4.0% Cash Back from Rakuten!"
                              width="100" height="27" style="display: inline;">
                     </span>
                                 </a>
-                                <a href=""                                    rel="nofollow" data-navigation-id="22930" class="desc-blk" target="_blank"
+                                <a href="" rel="nofollow" data-navigation-id="22930" class="desc-blk" target="_blank"
                                    data-amp-evt-sig="module_name,starts_shopping,store_id,store_name"
                                    data-amp-evt-type="Click Module" data-amp-module_name="Featured Daily Deals"
                                    data-amp-starts-shopping="true" data-amp-store_id="6206"
@@ -3550,7 +3611,7 @@
                           </div>
                                             </span>
                 </span>
-                                <a href=""                                    rel="nofollow" data-navigation-id="22930" class="shop-blk" target="_blank"
+                                <a href="" rel="nofollow" data-navigation-id="22930" class="shop-blk" target="_blank"
                                    data-amp-evt-sig="module_name,starts_shopping,store_id,store_name"
                                    data-amp-evt-type="Click Module" data-amp-module_name="Featured Daily Deals"
                                    data-amp-starts-shopping="true" data-amp-store_id="6206"
@@ -3570,17 +3631,17 @@
                                    data-amp-store_id="6206" data-amp-store_name="Zulily" data-event-signature="ec,ea,el"
                                    data-ec="Desktop Home Page" data-ea="Featured Daily Deals - Click" data-el="Zulily">
                     <span class="small-banner">
-                        <img class="lazy" src="images/zulily_hpphd_100719.jpg"
+                        <img class="lazy" src="{{url("/images/zulily_hpphd_100719.jpg")}}"
                              alt="Zulily" title="Get a great deal from Zulily plus 2.0% Cash Back from Rakuten!"
                              width="224" height="150" style="display: inline;">
                     </span>
                                     <span class="logos">
-                        <img class="lazy" src="images/icon_100x27(24).gif"
+                        <img class="lazy" src="{{url("/images/icon_100x27(24).gif")}}"
                              alt="Zulily" title="Get a great deal from Zulily plus 2.0% Cash Back from Rakuten!"
                              width="100" height="27" style="display: inline;">
                     </span>
                                 </a>
-                                <a href=""                                    rel="nofollow" data-navigation-id="22930" class="desc-blk" target="_blank"
+                                <a href="" rel="nofollow" data-navigation-id="22930" class="desc-blk" target="_blank"
                                    data-amp-evt-sig="module_name,starts_shopping,store_id,store_name"
                                    data-amp-evt-type="Click Module" data-amp-module_name="Featured Daily Deals"
                                    data-amp-starts-shopping="true" data-amp-store_id="6206" data-amp-store_name="Zulily"
@@ -3603,7 +3664,7 @@
                     <span class="coupon-code premium-code featuredeals" data-clipboard-text="">
                                             </span>
                 </span>
-                                <a href=""                                    rel="nofollow" data-navigation-id="22930" class="shop-blk" target="_blank"
+                                <a href="" rel="nofollow" data-navigation-id="22930" class="shop-blk" target="_blank"
                                    data-amp-evt-sig="module_name,starts_shopping,store_id,store_name"
                                    data-amp-evt-type="Click Module" data-amp-module_name="Featured Daily Deals"
                                    data-amp-starts-shopping="true" data-amp-store_id="6206" data-amp-store_name="Zulily"
@@ -3623,19 +3684,19 @@
                                    data-event-signature="ec,ea,el" data-ec="Desktop Home Page"
                                    data-ea="Featured Daily Deals - Click" data-el="Brooks Brothers">
                     <span class="small-banner">
-                        <img class="lazy" src="images/belk_hpphd_091619(1).jpg"
+                        <img class="lazy" src="{{url("/images/belk_hpphd_091619(1).jpg")}}"
                              alt="Brooks Brothers"
                              title="Get a great deal from Brooks Brothers plus 7.0% Cash Back from Rakuten!" width="224"
                              height="150" style="display: inline;">
                     </span>
                                     <span class="logos">
-                        <img class="lazy" src="images/icon-100x27(7).gif"
+                        <img class="lazy" src="{{url("/images/icon-100x27(7).gif")}}"
                              alt="Brooks Brothers"
                              title="Get a great deal from Brooks Brothers plus 7.0% Cash Back from Rakuten!" width="100"
                              height="27" style="display: inline;">
                     </span>
                                 </a>
-                                <a href=""                                    rel="nofollow" data-navigation-id="22930" class="desc-blk" target="_blank"
+                                <a href="" rel="nofollow" data-navigation-id="22930" class="desc-blk" target="_blank"
                                    data-amp-evt-sig="module_name,starts_shopping,store_id,store_name"
                                    data-amp-evt-type="Click Module" data-amp-module_name="Featured Daily Deals"
                                    data-amp-starts-shopping="true" data-amp-store_id="6206"
@@ -3659,7 +3720,7 @@
                     <span class="coupon-code premium-code featuredeals" data-clipboard-text="">
                                             </span>
                 </span>
-                                <a href=""                                    rel="nofollow" data-navigation-id="22930" class="shop-blk" target="_blank"
+                                <a href="" rel="nofollow" data-navigation-id="22930" class="shop-blk" target="_blank"
                                    data-amp-evt-sig="module_name,starts_shopping,store_id,store_name"
                                    data-amp-evt-type="Click Module" data-amp-module_name="Featured Daily Deals"
                                    data-amp-starts-shopping="true" data-amp-store_id="6206"
@@ -3680,17 +3741,17 @@
                                    data-event-signature="ec,ea,el" data-ec="Desktop Home Page"
                                    data-ea="Featured Daily Deals - Click" data-el="JCPenney">
                     <span class="small-banner">
-                        <img class="lazy" src="images/eastdane_hdpd_030220.jpg"
+                        <img class="lazy" src="{{url("/images/eastdane_hdpd_030220.jpg")}}"
                              alt="JCPenney" title="Get a great deal from JCPenney plus 3.0% Cash Back from Rakuten!"
                              width="224" height="150" style="display: inline;">
                     </span>
                                     <span class="logos">
-                        <img class="lazy" src="images/icon_100x27s.gif"
+                        <img class="lazy" src="{{url("/images/icon_100x27s.gif")}}"
                              alt="JCPenney" title="Get a great deal from JCPenney plus 3.0% Cash Back from Rakuten!"
                              width="100" height="27" style="display: inline;">
                     </span>
                                 </a>
-                                <a href=""                                    rel="nofollow" data-navigation-id="22930" class="desc-blk" target="_blank"
+                                <a href="" rel="nofollow" data-navigation-id="22930" class="desc-blk" target="_blank"
                                    data-amp-evt-sig="module_name,starts_shopping,store_id,store_name"
                                    data-amp-evt-type="Click Module" data-amp-module_name="Featured Daily Deals"
                                    data-amp-starts-shopping="true" data-amp-store_id="6206"
@@ -3719,7 +3780,7 @@
                           </div>
                                             </span>
                 </span>
-                                <a href=""                                    rel="nofollow" data-navigation-id="22930" class="shop-blk" target="_blank"
+                                <a href="" rel="nofollow" data-navigation-id="22930" class="shop-blk" target="_blank"
                                    data-amp-evt-sig="module_name,starts_shopping,store_id,store_name"
                                    data-amp-evt-type="Click Module" data-amp-module_name="Featured Daily Deals"
                                    data-amp-starts-shopping="true" data-amp-store_id="6206"
@@ -3740,19 +3801,19 @@
                                    data-event-signature="ec,ea,el" data-ec="Desktop Home Page"
                                    data-ea="Featured Daily Deals - Click" data-el="Disney+">
                     <span class="small-banner">
-                        <img class="lazy" src="images/disney_hpphd_032320.jpg"
+                        <img class="lazy" src="{{url("/images/disney_hpphd_032320.jpg")}}"
                              alt="Disney+"
                              title="Get a great deal from Disney+ plus Up to $12.50 Cash Back from Rakuten!" width="224"
                              height="150" style="display: inline;">
                     </span>
                                     <span class="logos">
-                        <img class="lazy" src="images/disneyplus_icon_100x27.gif"
+                        <img class="lazy" src="{{url("/images/disneyplus_icon_100x27.gif")}}"
                              alt="Disney+"
                              title="Get a great deal from Disney+ plus Up to $12.50 Cash Back from Rakuten!" width="100"
                              height="27" style="display: inline;">
                     </span>
                                 </a>
-                                <a href=""                                    rel="nofollow" data-navigation-id="22930" class="desc-blk" target="_blank"
+                                <a href="" rel="nofollow" data-navigation-id="22930" class="desc-blk" target="_blank"
                                    data-amp-evt-sig="module_name,starts_shopping,store_id,store_name"
                                    data-amp-evt-type="Click Module" data-amp-module_name="Featured Daily Deals"
                                    data-amp-starts-shopping="true" data-amp-store_id="6206"
@@ -3773,7 +3834,7 @@
                     <span class="coupon-code premium-code featuredeals" data-clipboard-text="">
                                             </span>
                 </span>
-                                <a href=""                                    rel="nofollow" data-navigation-id="22930" class="shop-blk" target="_blank"
+                                <a href="" rel="nofollow" data-navigation-id="22930" class="shop-blk" target="_blank"
                                    data-amp-evt-sig="module_name,starts_shopping,store_id,store_name"
                                    data-amp-evt-type="Click Module" data-amp-module_name="Featured Daily Deals"
                                    data-amp-starts-shopping="true" data-amp-store_id="6206"
@@ -3909,9 +3970,9 @@
                                            data-amp-store_name="Zappos" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/merchant_logo/2524/zappos_icon_100x27.gif"
+                                                 data-small-image="{{url("/images/zappos_icon_100x27.gif")}}"
                                                  data-deal-id="12942027"
-                                                 src="images/zappos_icon_150x40.gif"
+                                                 src="{{url("/images/zappos_icon_150x40.gif")}}"
                                                  alt="Shop now at Zappos plus 5.0% Cash Back from Rakuten!"
                                                  title="Shop now at Zappos plus 5.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -3930,7 +3991,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Zappos"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -3953,9 +4014,9 @@
                                            data-amp-store_name="Verizon Fios" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/merchant_logo/12607/fios_icon_100x27.gif"
+                                                 data-small-image="{{url("/images/fios_icon_100x27.gif")}}"
                                                  data-deal-id="12918604"
-                                                 src="images/fios_icon_150x40.gif"
+                                                 src="{{url("/images/fios_icon_100x27.gif")}}"
                                                  alt="Shop now at Verizon Fios plus Up to $120.00 Cash Back from Rakuten!"
                                                  title="Shop now at Verizon Fios plus Up to $120.00 Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -3977,7 +4038,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Verizon Fios"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4000,9 +4061,9 @@
                                            data-amp-store_name="Champion USA" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/merchant_images/small/small_icon_champion2.gif"
+                                                 data-small-image="{{url("/images//small_icon_champion2.gif")}}"
                                                  data-deal-id="12934659"
-                                                 src="images/championusa_icon_150x40.gif"
+                                                 src="{{url("/images//small_icon_champion2.gif")}}"
                                                  alt="Shop now at Champion USA plus 2.0% Cash Back from Rakuten!"
                                                  title="Shop now at Champion USA plus 2.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4024,7 +4085,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Champion USA"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4047,9 +4108,9 @@
                                            data-amp-store_name="Omaha Steaks" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/merchant_images/small/small_icon_omaha.gif"
+                                                 data-small-image="{{url("/images/small_icon_omaha.gif")}}"
                                                  data-deal-id="12939627"
-                                                 src="images/icon_omaha.gif"
+                                                 src="{{url("/images/small_icon_omaha.gif")}}"
                                                  alt="Shop now at Omaha Steaks plus 7.0% Cash Back from Rakuten!"
                                                  title="Shop now at Omaha Steaks plus 7.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4065,7 +4126,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Omaha Steaks"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4087,9 +4148,9 @@
                                            data-amp-store_name="Pier 1" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/11802/icon_100x27.gif"
+                                                 data-small-image="{{url("/images/icon_100x27.gif")}}"
                                                  data-deal-id="12908864"
-                                                 src="images/icon_150x40.gif"
+                                                 src="{{url("/images/icon_100x27.gif")}}"
                                                  alt="Shop now at Pier 1 plus 6.0% Cash Back from Rakuten!"
                                                  title="Shop now at Pier 1 plus 6.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4108,7 +4169,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Pier 1"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4130,9 +4191,9 @@
                                            data-amp-store_name="Marmot" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/merchant_logo/16014/marmot_icon_100x27.gif"
+                                                 data-small-image="{{url("/images/marmot_icon_100x27.gif")}}"
                                                  data-deal-id="12939168"
-                                                 src="images/marmot_icon_150x40.gif"
+                                                 src="{{url("/images/marmot_icon_100x27.gif")}}"
                                                  alt="Shop now at Marmot plus 4.0% Cash Back from Rakuten!"
                                                  title="Shop now at Marmot plus 4.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4151,7 +4212,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Marmot"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4174,9 +4235,9 @@
                                            data-amp-store_name="Yankee Candle" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/8055/yankeecandle_icon_100x27.gif"
+                                                 data-small-image="{{url("/images/yankeecandle_icon_100x27.gif")}}"
                                                  data-deal-id="12939629"
-                                                 src="images/yankeecandle_icon_150x40.gif"
+                                                 src="{{url("/images/yankeecandle_icon_100x27.gif")}}"
                                                  alt="Shop now at Yankee Candle plus 4.0% Cash Back from Rakuten!"
                                                  title="Shop now at Yankee Candle plus 4.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4195,7 +4256,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Yankee Candle"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4218,9 +4279,9 @@
                                            data-amp-store_name="Kiehl&#39;s" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/image/store/icon/9443/icon-100x27-2.gif"
+                                                 data-small-image="{{url("/images/icon-100x27-2.gif")}}"
                                                  data-deal-id="12940256"
-                                                 src="images/icon-150x40-2.gif"
+                                                 src="{{url("/images/icon-100x27-2.gif")}}"
                                                  alt="Shop now at Kiehl&#39;s plus 4.0% Cash Back from Rakuten!"
                                                  title="Shop now at Kiehl&#39;s plus 4.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4252,7 +4313,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Kiehl&#39;s"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4274,9 +4335,9 @@
                                            data-event-signature="ec,ea" data-ec="Desktop Home Page"
                                            data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/4646/hsn_icon_100x27.gif"
+                                                 data-small-image="{{url("/images/hsn_icon_100x27.gif")}}"
                                                  data-deal-id="12940689"
-                                                 src="images/hsn_icon_150x40.gif"
+                                                 src="{{url("/images/hsn_icon_100x27.gif")}}"
                                                  alt="Shop now at HSN plus 1.0% Cash Back from Rakuten!"
                                                  title="Shop now at HSN plus 1.0% Cash Back from Rakuten!" width="150"
                                                  height="40" style="display: block;">
@@ -4295,7 +4356,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at HSN"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4318,9 +4379,9 @@
                                            data-amp-store_name="Ashley HomeStore" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/image/store/icon/12335/icon-100x27-2.gif"
+                                                 data-small-image="{{url("/images/icon-100x27-2.gif")}}"
                                                  data-deal-id="12931591"
-                                                 src="images/icon-150x40-2(1).gif"
+                                                 src="{{url("/images/icon-100x27-2.gif")}}"
                                                  alt="Shop now at Ashley HomeStore plus 1.5% Cash Back from Rakuten!"
                                                  title="Shop now at Ashley HomeStore plus 1.5% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4339,7 +4400,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Ashley HomeStore"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4362,9 +4423,9 @@
                                            data-amp-store_name="Disney+" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/18551/disneyplus_icon_100x27.gif"
+                                                 data-small-image="{{url("/images/disneyplus_icon_100x27.gif")}}"
                                                  data-deal-id="12863668"
-                                                 src="images/disneyplus_icon_150x40.gif"
+                                                 src="{{url("/images/disneyplus_icon_100x27.gif")}}"
                                                  alt="Shop now at Disney+ plus Up to $12.50 Cash Back from Rakuten!"
                                                  title="Shop now at Disney+ plus Up to $12.50 Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4380,7 +4441,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Disney+"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4402,9 +4463,9 @@
                                            data-amp-store_name="hint" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/16840/icon_100x27.gif"
+                                                 data-small-image="{{url("/images/icon_100x27.gif")}}"
                                                  data-deal-id="12915183"
-                                                 src="images/icon_150x40(1).gif"
+                                                 src="{{url("/images/icon_100x27.gif")}}"
                                                  alt="Shop now at hint plus 8.0% Cash Back from Rakuten!"
                                                  title="Shop now at hint plus 8.0% Cash Back from Rakuten!" width="150"
                                                  height="40" style="display: block;">
@@ -4422,7 +4483,8 @@
                                                                     data-amp-evt-type="Click Module"
                                                                     data-amp-module_name="Hot Deals Coupons"
                                                                     data-amp-item_type="Copy Hot Deal Code"
-                                                                    data-amp-store_id="16840" data-amp-store_name="hint">KICK</span>
+                                                                    data-amp-store_id="16840"
+                                                                    data-amp-store_name="hint">KICK</span>
                                 <div class="copy-coupon-code-tooltip copybtn tooltip hotdeals ">
                                     <span class="copy">Click to copy</span>
                                 </div>
@@ -4431,7 +4493,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at hint"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4454,9 +4516,9 @@
                                            data-amp-store_name="Athleta" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/10168/icon_100x27.gif"
+                                                 data-small-image="{{url("/images/icon_100x27.gif")}}"
                                                  data-deal-id="12930498"
-                                                 src="images/icon_150x40(2).gif"
+                                                 src="{{url("/images/icon_100x27.gif")}}"
                                                  alt="Shop now at Athleta plus 2.0% Cash Back from Rakuten!"
                                                  title="Shop now at Athleta plus 2.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4478,7 +4540,8 @@
                                                                     data-amp-evt-type="Click Module"
                                                                     data-amp-module_name="Hot Deals Coupons"
                                                                     data-amp-item_type="Copy Hot Deal Code"
-                                                                    data-amp-store_id="10168" data-amp-store_name="Athleta">WINTER40</span>
+                                                                    data-amp-store_id="10168"
+                                                                    data-amp-store_name="Athleta">WINTER40</span>
                                 <div class="copy-coupon-code-tooltip copybtn tooltip hotdeals ">
                                     <span class="copy">Click to copy</span>
                                 </div>
@@ -4490,7 +4553,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Athleta"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4512,9 +4575,9 @@
                                            data-amp-store_name="Udemy" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/14400/icon_100x27.gif"
+                                                 data-small-image="{{url("/images/icon_100x27.gif")}}"
                                                  data-deal-id="12929297"
-                                                 src="images/icon_150x40(3).gif"
+                                                 src="{{url("/images/icon_100x27.gif")}}"
                                                  alt="Shop now at Udemy plus 15.0% Cash Back from Rakuten!"
                                                  title="Shop now at Udemy plus 15.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4533,7 +4596,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Udemy"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4556,9 +4619,9 @@
                                            data-amp-store_name="One Hanes Place" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/merchant_logo/4692/onehanesplace_icon_100x27.gif"
+                                                 data-small-image="{{url("/images/onehanesplace_icon_150x40.gif")}}"
                                                  data-deal-id="12930595"
-                                                 src="images/onehanesplace_icon_150x40.gif"
+                                                 src="{{url("/images/onehanesplace_icon_150x40.gif")}}"
                                                  alt="Shop now at One Hanes Place plus 6.0% Cash Back from Rakuten!"
                                                  title="Shop now at One Hanes Place plus 6.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4577,7 +4640,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at One Hanes Place"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4600,9 +4663,9 @@
                                            data-amp-store_name="Omaha Steaks" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/merchant_images/small/small_icon_omaha.gif"
+                                                 data-small-image="{{url("/images/small_icon_omaha.gif")}}"
                                                  data-deal-id="12721724"
-                                                 src="images/icon_omaha.gif"
+                                                 src="{{url("/images/small_icon_omaha.gif")}}"
                                                  alt="Shop now at Omaha Steaks plus 7.0% Cash Back from Rakuten!"
                                                  title="Shop now at Omaha Steaks plus 7.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4621,7 +4684,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Omaha Steaks"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4643,9 +4706,9 @@
                                            data-amp-store_name="Hulu" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/merchant_logo/11038/hulu_icon_100x27.gif"
+                                                 data-small-image="{{url("/images/hulu_icon_150x40.gif")}}"
                                                  data-deal-id="12873547"
-                                                 src="images/hulu_icon_150x40.gif"
+                                                 src="{{url("/images/hulu_icon_150x40.gif")}}"
                                                  alt="Shop now at Hulu plus $5.00 Cash Back from Rakuten!"
                                                  title="Shop now at Hulu plus $5.00 Cash Back from Rakuten!" width="150"
                                                  height="40" style="display: block;">
@@ -4664,7 +4727,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Hulu"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4687,9 +4750,9 @@
                                            data-amp-store_name="Beachbody" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/merchant_logo/6046/icon_100x27.gif"
+                                                 data-small-image="{{url("/images/icon_100x27.gif")}}"
                                                  data-deal-id="12907811"
-                                                 src="images/icon_150x40(4).gif"
+                                                 src="{{url("/images/icon_100x27.gif")}}"
                                                  alt="Shop now at Beachbody plus 10.0% Cash Back from Rakuten!"
                                                  title="Shop now at Beachbody plus 10.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4705,7 +4768,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Beachbody"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4728,9 +4791,9 @@
                                            data-amp-store_name="Magazines.com" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/8049/icon_100x27.gif"
+                                                 data-small-image="{{url("/images/icon_150x40(5).gif")}}"
                                                  data-deal-id="12872392"
-                                                 src="images/icon_150x40(5).gif"
+                                                 src="{{url("/images/icon_150x40(5).gif")}}"
                                                  alt="Shop now at Magazines.com plus 50.0% Cash Back from Rakuten!"
                                                  title="Shop now at Magazines.com plus 50.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4749,7 +4812,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Magazines.com"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4771,9 +4834,9 @@
                                            data-event-signature="ec,ea" data-ec="Desktop Home Page"
                                            data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/image/store/icon/9528/icon-100x27.gif"
+                                                 data-small-image="{{url("/images/icon-100x27.gif")}}"
                                                  data-deal-id="12939721"
-                                                 src="images/icon-150x40.gif"
+                                                 src="{{url("/images/icon-100x27.gif")}}"
                                                  alt="Shop now at Nike plus 8.0% Cash Back from Rakuten!"
                                                  title="Shop now at Nike plus 8.0% Cash Back from Rakuten!" width="150"
                                                  height="40" style="display: block;">
@@ -4807,7 +4870,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Nike"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4830,9 +4893,9 @@
                                            data-amp-store_name="Topshop" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/11227/topshop_icon_100x27aa.gif"
+                                                 data-small-image="{{url("/images/topshop_icon_150x40aa.gif")}}"
                                                  data-deal-id="12926307"
-                                                 src="images/topshop_icon_150x40aa.gif"
+                                                 src="{{url("/images/topshop_icon_150x40aa.gif")}}"
                                                  alt="Shop now at Topshop plus 2.0% Cash Back from Rakuten!"
                                                  title="Shop now at Topshop plus 2.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4851,7 +4914,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Topshop"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4874,9 +4937,9 @@
                                            data-amp-store_name="Vitamin World" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/merchant_images/small/small_icon_vitaminworld3.gif"
+                                                 data-small-image="{{url("/images/topshop_icon_150x40aa.gif")}}"
                                                  data-deal-id="12935375"
-                                                 src="images/icon_vitaminworld3.gif"
+                                                 src="{{url("/images/topshop_icon_150x40aa.gif")}}"
                                                  alt="Shop now at Vitamin World plus 10.0% Cash Back from Rakuten!"
                                                  title="Shop now at Vitamin World plus 10.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4892,7 +4955,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Vitamin World"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4906,7 +4969,7 @@
 
                                 <div class="coupon-blk logo-blk blk">
                                     <div class="merchlogo">
-                                        <a href=""                                            data-navigation-id="22773" target="_parent"
+                                        <a href="" data-navigation-id="22773" target="_parent"
                                            title="Shop now at The Honest Company plus 8.0% Cash Back from Rakuten!"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4914,9 +4977,9 @@
                                            data-amp-store_name="The Honest Company" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/image/store/icon/13750/icon-100x27.gif"
+                                                 data-small-image="{{url("/images/icon-150x40(1).gif")}}"
                                                  data-deal-id="12930518"
-                                                 src="images/icon-150x40(1).gif"
+                                                 src="{{url("/images/icon-150x40(1).gif")}}"
                                                  alt="Shop now at The Honest Company plus 8.0% Cash Back from Rakuten!"
                                                  title="Shop now at The Honest Company plus 8.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4948,7 +5011,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at The Honest Company"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -4971,9 +5034,9 @@
                                            data-amp-store_name="Kids Discover" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/18215/icon_100x27.gif"
+                                                 data-small-image="{{url("/images/icon_150x40(6).gif")}}"
                                                  data-deal-id="12778339"
-                                                 src="images/icon_150x40(6).gif"
+                                                 src="{{url("/images/icon_150x40(6).gif")}}"
                                                  alt="Shop now at Kids Discover plus 6.0% Cash Back from Rakuten!"
                                                  title="Shop now at Kids Discover plus 6.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -4989,7 +5052,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Kids Discover"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -5011,9 +5074,9 @@
                                            data-event-signature="ec,ea" data-ec="Desktop Home Page"
                                            data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/3864/gap_icon_100x27.gif"
+                                                 data-small-image="{{url("/images/gap_icon_150x40.gif")}}"
                                                  data-deal-id="12929149"
-                                                 src="images/gap_icon_150x40.gif"
+                                                 src="{{url("/images/gap_icon_150x40.gif")}}"
                                                  alt="Shop now at Gap plus 10.0% Cash Back from Rakuten!"
                                                  title="Shop now at Gap plus 10.0% Cash Back from Rakuten!" width="150"
                                                  height="40" style="display: block;">
@@ -5044,7 +5107,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Gap"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -5067,9 +5130,9 @@
                                            data-amp-store_name="Dollar Shave Club" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/merchant_logo/11520/dollarshaveclub_icon_100x27.gif"
+                                                 data-small-image="{{url("/images/dollarshaveclub_icon_150x40.gif")}}"
                                                  data-deal-id="12901439"
-                                                 src="images/dollarshaveclub_icon_150x40.gif"
+                                                 src="{{url("/images/dollarshaveclub_icon_150x40.gif")}}"
                                                  alt="Shop now at Dollar Shave Club plus 10.0% Cash Back from Rakuten!"
                                                  title="Shop now at Dollar Shave Club plus 10.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -5085,7 +5148,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Dollar Shave Club"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -5108,9 +5171,9 @@
                                            data-amp-store_name="TIDAL Music Streaming" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/18554/icon_100x27.gif"
+                                                 data-small-image="{{url("/images/icon_150x40(7).gif")}}"
                                                  data-deal-id="12798164"
-                                                 src="images/icon_150x40(7).gif"
+                                                 src="{{url("/images/icon_150x40(7).gif")}}"
                                                  alt="Shop now at TIDAL Music Streaming plus $8.00 Cash Back from Rakuten!"
                                                  title="Shop now at TIDAL Music Streaming plus $8.00 Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -5126,7 +5189,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at TIDAL Music Streaming"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -5149,9 +5212,9 @@
                                            data-amp-store_name="Champion USA" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/merchant_images/small/small_icon_champion2.gif"
+                                                 data-small-image="{{url("/images/championusa_icon_150x40.gif")}}"
                                                  data-deal-id="12930594"
-                                                 src="images/championusa_icon_150x40.gif"
+                                                 src="{{url("/images/championusa_icon_150x40.gif")}}"
                                                  alt="Shop now at Champion USA plus 2.0% Cash Back from Rakuten!"
                                                  title="Shop now at Champion USA plus 2.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -5182,7 +5245,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Champion USA"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -5205,9 +5268,9 @@
                                            data-amp-store_name="Rosetta Stone" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/merchant_images/small/small_icon_rosettastone1.gif"
+                                                 data-small-image="{{url("/images/icon_rosettastone1.gif")}}"
                                                  data-deal-id="12936681"
-                                                 src="images/icon_rosettastone1.gif"
+                                                 src="{{url("/images/icon_rosettastone1.gif")}}"
                                                  alt="Shop now at Rosetta Stone plus 7.0% Cash Back from Rakuten!"
                                                  title="Shop now at Rosetta Stone plus 7.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -5226,7 +5289,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at Rosetta Stone"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -5249,9 +5312,9 @@
                                            data-amp-store_name="FedEx Office" data-event-signature="ec,ea"
                                            data-ec="Desktop Home Page" data-ea="Hot Deals - Click">
                                             <img class="special-logo lazy"
-                                                 data-small-image="https://static.ebates.com/img/store/10762/icon_100x27.gif"
+                                                 data-small-image="{{url("/images/icon_150x40(8).gif")}}"
                                                  data-deal-id="12742460"
-                                                 src="images/icon_150x40(8).gif"
+                                                 src="{{url("/images/icon_150x40(8).gif")}}"
                                                  alt="Shop now at FedEx Office plus Up to 10.0% Cash Back from Rakuten!"
                                                  title="Shop now at FedEx Office plus Up to 10.0% Cash Back from Rakuten!"
                                                  width="150" height="40" style="display: block;">
@@ -5283,7 +5346,7 @@
                                         </li>
                                     </ul>
                                     <div class="shopnow">
-                                        <a href=""                                            rel="nofollow" data-navigation-id="22773" target="_blank"
+                                        <a href="" rel="nofollow" data-navigation-id="22773" target="_blank"
                                            class="button secondary ghost" title="Shop Now at FedEx Office"
                                            data-amp-evt-sig="module_name,item_type,store_id,store_name,starts_shopping"
                                            data-amp-evt-type="Click Module" data-amp-module_name="Hot Deals Coupons"
@@ -5403,14 +5466,14 @@
 
 
                             <div class="img-blk">
-                                <a href=""                                    rel="nofollow" target="_blank" data-navigation-id="22774"
+                                <a href="" rel="nofollow" target="_blank" data-navigation-id="22774"
                                    data-click-category="Homepage" data-click-action="Click right rail banner"
                                    data-click-label="Macy&#39;s - img/campaign_entity/23002191/200320-35106-macys-02-rr.jpg"
                                    data-event-signature="ec,ea,el" data-ec="Desktop Home Page"
                                    data-ea="Right Rail Banner - Click"
                                    data-el="Macy&#39;s - img/campaign_entity/23002191/200320-35106-macys-02-rr.jpg">
                                     <img class="lazy"
-                                         src="images/200320-35106-macys-02-rr.jpg"
+                                         src="{{url("/images/200320-35106-macys-02-rr.jpg")}}"
                                          alt="Save at Macy&#39;s with Coupons and Cash Back from Rakuten!"
                                          title="Save at Macy&#39;s with Coupons and Cash Back from Rakuten!" width="300"
                                          height="250" style="display: inline;">
@@ -5418,7 +5481,8 @@
                             </div>
                             <div class="info-blk">
                                 <p>
-                                    <a href=""                                        rel="nofollow" data-navigation-id="22774" target="_blank" class="cb prox-b"
+                                    <a href="" rel="nofollow" data-navigation-id="22774" target="_blank"
+                                       class="cb prox-b"
                                        data-click-category="Homepage" data-click-action="Click right rail banner"
                                        data-click-label="Macy&#39;s - img/campaign_entity/23002191/200320-35106-macys-02-rr.jpg"
                                        data-event-signature="ec,ea,el" data-ec="Desktop Home Page"
@@ -5433,14 +5497,14 @@
 
 
                             <div class="img-blk">
-                                <a href=""                                    rel="nofollow" target="_blank" data-navigation-id="22775"
+                                <a href="" rel="nofollow" target="_blank" data-navigation-id="22775"
                                    data-click-category="Homepage" data-click-action="Click right rail banner"
                                    data-click-label="Herman Miller - img/campaign_entity/23002196/416080_1584969000.jpg"
                                    data-event-signature="ec,ea,el" data-ec="Desktop Home Page"
                                    data-ea="Right Rail Banner - Click"
                                    data-el="Herman Miller - img/campaign_entity/23002196/416080_1584969000.jpg">
                                     <img class="lazy"
-                                         src="images/416080_1584969000.jpg"
+                                         src="{{url("/images/416080_1584969000.jpg")}}"
                                          alt="Save at Herman Miller with Coupons and Cash Back from Rakuten!"
                                          title="Save at Herman Miller with Coupons and Cash Back from Rakuten!"
                                          width="300" height="250" style="display: inline;">
@@ -5448,7 +5512,8 @@
                             </div>
                             <div class="info-blk">
                                 <p>
-                                    <a href=""                                        rel="nofollow" data-navigation-id="22775" target="_blank" class="cb prox-b"
+                                    <a href="" rel="nofollow" data-navigation-id="22775" target="_blank"
+                                       class="cb prox-b"
                                        data-click-category="Homepage" data-click-action="Click right rail banner"
                                        data-click-label="Herman Miller - img/campaign_entity/23002196/416080_1584969000.jpg"
                                        data-event-signature="ec,ea,el" data-ec="Desktop Home Page"
@@ -5464,14 +5529,14 @@
 
 
                             <div class="img-blk">
-                                <a href=""                                    rel="nofollow" target="_blank" data-navigation-id="22776"
+                                <a href="" rel="nofollow" target="_blank" data-navigation-id="22776"
                                    data-click-category="Homepage" data-click-action="Click right rail banner"
                                    data-click-label="Kassatex - img/campaign_entity/23002197/kassatex_hp300_032420.jpg"
                                    data-event-signature="ec,ea,el" data-ec="Desktop Home Page"
                                    data-ea="Right Rail Banner - Click"
                                    data-el="Kassatex - img/campaign_entity/23002197/kassatex_hp300_032420.jpg">
                                     <img class="lazy"
-                                         src="images/kassatex_hp300_032420.jpg"
+                                         src="{{url("/images/kassatex_hp300_032420.jpg")}}"
                                          alt="Save at Kassatex with Coupons and Cash Back from Rakuten!"
                                          title="Save at Kassatex with Coupons and Cash Back from Rakuten!" width="300"
                                          height="250" style="display: inline;">
@@ -5479,7 +5544,8 @@
                             </div>
                             <div class="info-blk">
                                 <p>
-                                    <a href=""                                        rel="nofollow" data-navigation-id="22776" target="_blank" class="cb prox-b"
+                                    <a href="" rel="nofollow" data-navigation-id="22776" target="_blank"
+                                       class="cb prox-b"
                                        data-click-category="Homepage" data-click-action="Click right rail banner"
                                        data-click-label="Kassatex - img/campaign_entity/23002197/kassatex_hp300_032420.jpg"
                                        data-event-signature="ec,ea,el" data-ec="Desktop Home Page"
@@ -5502,7 +5568,7 @@
                                    data-ea="Right Rail Banner - Click"
                                    data-el="Kassatex - /img/campaign_entity/23001650/desk_rightrail.png">
                                     <img class="lazy"
-                                         src="images/desk_rightrail.png" alt=""
+                                         src="{{url("/images/desk_rightrail.png")}}" alt=""
                                          title="" width="300" height="250" style="display: inline;">
                                 </a>
                             </div>
@@ -5540,14 +5606,14 @@
 
                                         <div class="side-dd m-double-cb-store-grid-s ">
                                             <a title="Get a great deal from Dollar Shave Club plus 10.0% Cash Back from Rakuten!"
-                                               href=""                                                data-navigation-id="22864" class="bblk center link"
+                                               href="" data-navigation-id="22864" class="bblk center link"
                                                data-click-category="Homepage"
                                                data-click-action="Click double cash back sticky banner module"
                                                data-click-label="Dollar Shave Club" data-event-signature="ec,ea,el"
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="Dollar Shave Club">
                                                 <img class="lazy logo"
-                                                     src="images/dollarshaveclub_icon_100x27.gif"
+                                                     src="{{url("/images/dollarshaveclub_icon_100x27.gif")}}"
                                                      alt="Dollar Shave Club"
                                                      title="Get a great deal from Dollar Shave Club plus 10.0% Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5562,7 +5628,7 @@
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="SodaStream">
                                                 <img class="lazy logo"
-                                                     src="images/icon_100x27(5).gif"
+                                                     src="{{url("/images/icon_100x27(5).gif")}}"
                                                      alt="SodaStream"
                                                      title="Get a great deal from SodaStream plus 5.0% Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5577,7 +5643,7 @@
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="Nike">
                                                 <img class="lazy logo"
-                                                     src="images/icon-100x27(1).gif"
+                                                     src="{{url("/images/icon-100x27(1).gif")}}"
                                                      alt="Nike"
                                                      title="Get a great deal from Nike plus 8.0% Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5592,7 +5658,7 @@
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="boohoo">
                                                 <img class="lazy logo"
-                                                     src="images/boohoo_icon_100x27.gif"
+                                                     src="{{url("/images/boohoo_icon_100x27.gif")}}"
                                                      alt="boohoo"
                                                      title="Get a great deal from boohoo plus 6.0% Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5600,14 +5666,14 @@
                                         </div>
                                         <div class="side-dd m-double-cb-store-grid-s ">
                                             <a title="Get a great deal from Purple Carrot plus $10.00 Cash Back from Rakuten!"
-                                               href=""                                                data-navigation-id="22864" class="bblk center link"
+                                               href="" data-navigation-id="22864" class="bblk center link"
                                                data-click-category="Homepage"
                                                data-click-action="Click double cash back sticky banner module"
                                                data-click-label="Purple Carrot" data-event-signature="ec,ea,el"
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="Purple Carrot">
                                                 <img class="lazy logo"
-                                                     src="images/icon_100x27(1).gif"
+                                                     src="{{url("/images/icon_100x27(1).gif")}}"
                                                      alt="Purple Carrot"
                                                      title="Get a great deal from Purple Carrot plus $10.00 Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5622,7 +5688,7 @@
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="TIDAL Music Streaming">
                                                 <img class="lazy logo"
-                                                     src="images/icon_100x27(10).gif"
+                                                     src="{{url("/images/icon_100x27(10).gif")}}"
                                                      alt="TIDAL Music Streaming"
                                                      title="Get a great deal from TIDAL Music Streaming plus $8.00 Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5637,7 +5703,7 @@
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="Postmates">
                                                 <img class="lazy logo"
-                                                     src="images/icon_100x27_a.gif"
+                                                     src="{{url("/images/icon_100x27_a.gif")}}"
                                                      alt="Postmates"
                                                      title="Get a great deal from Postmates plus Up to $9.00 Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5645,14 +5711,14 @@
                                         </div>
                                         <div class="side-dd m-double-cb-store-grid-s ">
                                             <a title="Get a great deal from InkCartridges.com plus Up to 18.0% Cash Back from Rakuten!"
-                                               href=""                                                data-navigation-id="22864" class="bblk center link"
+                                               href="" data-navigation-id="22864" class="bblk center link"
                                                data-click-category="Homepage"
                                                data-click-action="Click double cash back sticky banner module"
                                                data-click-label="InkCartridges.com" data-event-signature="ec,ea,el"
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="InkCartridges.com">
                                                 <img class="lazy logo"
-                                                     src="images/icon_100x27(16).gif"
+                                                     src="{{url("/images/icon_100x27(16).gif")}}"
                                                      alt="InkCartridges.com"
                                                      title="Get a great deal from InkCartridges.com plus Up to 18.0% Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5660,14 +5726,14 @@
                                         </div>
                                         <div class="side-dd m-double-cb-store-grid-s ">
                                             <a title="Get a great deal from Little Passports plus 4.0% Cash Back from Rakuten!"
-                                               href=""                                                data-navigation-id="22864" class="bblk center link"
+                                               href="" data-navigation-id="22864" class="bblk center link"
                                                data-click-category="Homepage"
                                                data-click-action="Click double cash back sticky banner module"
                                                data-click-label="Little Passports" data-event-signature="ec,ea,el"
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="Little Passports">
                                                 <img class="lazy logo"
-                                                     src="images/littlepassports_icon_100x27.gif"
+                                                     src="{{url("/images/littlepassports_icon_100x27.gif")}}"
                                                      alt="Little Passports"
                                                      title="Get a great deal from Little Passports plus 4.0% Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5682,7 +5748,7 @@
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="StrideRite">
                                                 <img class="lazy logo"
-                                                     src="images/icon-100x27(4).gif"
+                                                     src="{{url("/images/icon-100x27(4).gif")}}"
                                                      alt="StrideRite"
                                                      title="Get a great deal from StrideRite plus 4.0% Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5697,7 +5763,7 @@
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="Kohl&#39;s">
                                                 <img class="lazy logo"
-                                                     src="images/icon-kohls1.gif"
+                                                     src="{{url("/images/icon-kohls1.gif")}}"
                                                      alt="Kohl&#39;s"
                                                      title="Get a great deal from Kohl&#39;s plus 6.0% Cash Back from Rakuten!"
                                                      style="display: inline;">
@@ -5705,14 +5771,14 @@
                                         </div>
                                         <div class="side-dd m-double-cb-store-grid-s ">
                                             <a title="Get a great deal from Babo Botanicals plus 8.0% Cash Back from Rakuten!"
-                                               href=""                                                data-navigation-id="22864" class="bblk center link"
+                                               href="" data-navigation-id="22864" class="bblk center link"
                                                data-click-category="Homepage"
                                                data-click-action="Click double cash back sticky banner module"
                                                data-click-label="Babo Botanicals" data-event-signature="ec,ea,el"
                                                data-ec="Desktop Home Page" data-ea="Side Double Cash Back - Click"
                                                data-el="Babo Botanicals">
                                                 <img class="lazy logo"
-                                                     src="images/babobotanicals_icon_100x27.gif"
+                                                     src="{{url("/images/babobotanicals_icon_100x27.gif")}}"
                                                      alt="Babo Botanicals"
                                                      title="Get a great deal from Babo Botanicals plus 8.0% Cash Back from Rakuten!"
                                                      style="display: inline;">

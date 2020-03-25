@@ -125,7 +125,6 @@
     <link rel="apple-touch-icon-precomposed" sizes="192x192"
           href="https://static.ebates.com/static/images/favicons-r/icon-192x192.png">
     <meta name="msapplication-TileColor" content="#FFFFFF">
-    <meta name="msapplication-TileImage" content="https://static.ebates.com/static/images/favicons-r/icon-144x144.png">
     <script type="text/javascript">
         var Userlogin = "false", ebates = ebates || {};
         ebates.user = {loggedIn: false};
@@ -262,7 +261,7 @@
         }
 
         .fb_dialog_close_icon {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;
+            background: url({{url("/images/IE9JII6Z1Ys.png")}}) no-repeat scroll 0 0 transparent;
             cursor: pointer;
             display: block;
             height: 15px;
@@ -286,11 +285,11 @@
         }
 
         .fb_dialog_close_icon:hover {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent
+            background: url({{url("/images/IE9JII6Z1Ys.png")}}) no-repeat scroll 0 -15px transparent
         }
 
         .fb_dialog_close_icon:active {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent
+            background: url({{url("/images/IE9JII6Z1Ys.png")}}) no-repeat scroll 0 -30px transparent
         }
 
         .fb_dialog_iframe {
@@ -307,7 +306,7 @@
         }
 
         .fb_dialog_content .dialog_title > span {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;
+            background: url({{url("/images/Cou7n-nqK52.gif")}}) no-repeat 5px 50%;
             float: left;
             padding: 5px 0 7px 26px
         }
@@ -324,7 +323,7 @@
         }
 
         .fb_dialog.fb_dialog_mobile.loading {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;
+            background: url({{url("/images/3rhSv5V8j3o.gif")}}) white no-repeat 50% 50%;
             min-height: 100%;
             min-width: 100%;
             overflow: hidden;
@@ -447,7 +446,7 @@
         }
 
         .fb_dialog_content .dialog_content {
-            background: url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;
+            background: url({{url("/images/jKEcVPZFk-2.gif")}}) no-repeat 50% 50%;
             border: 1px solid #4a4a4a;
             border-bottom: 0;
             border-top: 0;
@@ -937,14 +936,14 @@
     }
 
     .welcome-h {
-        background: #bfc2d1 url(//static.ebates.com/static/images/home/rebranded-hero-img.jpg) no-repeat center bottom;
+        background: #bfc2d1 url({{url("/images/rebranded-hero-img.jpg")}}) no-repeat center bottom;
         background-size: cover;
         height: 544px;
         min-height: 544px
     }
 
     .rakuten-mode .welcome-h {
-        background: #bfc2d1 url(//static.ebates.com/static/images/home/rebranded-hero-img-rakuten.2.jpg) no-repeat center bottom;
+        background: #bfc2d1 url({{url("/images/rebranded-hero-img-rakuten.2.jpg")}}) no-repeat center bottom;
         background-size: cover
     }
 
@@ -1056,19 +1055,18 @@
     }
 
     .gc-module-wrap .join-sprite {
-        background: url(//static.ebates.com/images/signup/join_overlay/join-final-piggy-sprite.1.0.0.gif) no-repeat 0 0
+        background: url({{ url('/images/join-final-piggy-sprite.1.0.0.gif') }}) no-repeat 0 0
     }
 
     .gc-module-wrap .sprite-ebatescard {
         border-radius: 3px;
-        background: url(//static.ebates.com/static/images/home/giftcard_ebates.png) no-repeat center bottom;
+        background: url({{ url('/images/giftcard_ebates.png') }}) no-repeat center bottom;
         background-size: cover;
         width: 77px;
         height: 50px
     }
 
     .gc-module-wrap .sprite-ebatescard.rakuten {
-        background: url(//static.ebates.com/static/images/home/10-dollars-77x48.svg) no-repeat center bottom;
         background-size: cover
     }
 

@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('v2-welcome');
 });
+
+/*qvc_166x166.png*/
+
