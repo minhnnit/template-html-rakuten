@@ -38,33 +38,33 @@
             suggest: {
                 stores: '/dist/static/rev/search/eba_suggest-232e28b17a.js',
                 generic: '/dist/static/rev/search/generic-601e53461b.js',
-                hotels: '/dist/static/rev/global/js/eba/suggest-af3f9c76c7.js'
+                hotels: './js/suggest-af3f9c76c7.js'
             },
-            carousel: '/dist/static/rev/global/js/eba/carousel-2ffab8aefc.js',
+            carousel: './js/carousel-2ffab8aefc.js',
             msg: '/account/global_files/js/notifications.1.0.1.min.js',
             sorter: '/global_files/js/eba/sort/sort.1.0.4.min.js',
-            sf: '/dist/static/rev/global/js/eba/sf-9768d356de.js',
-            abp: '/dist/static/rev/global/js/blocking-45eb9cd696.js',
+            sf: './js/sf-9768d356de.js',
+            abp: './js/blocking-45eb9cd696.js',
             emailCorrector: {
-                mailcheck: '/dist/static/rev/global/js/kicksend-mailcheck/mailcheck-00ff88a434.js',
-                loader: '/dist/static/rev/global/js/kicksend-mailcheck/loader-3a832a4e30.js'
+                mailcheck: './js/mailcheck-00ff88a434.js',
+                loader: './js/loader-3a832a4e30.js'
             },
             button: '/dist/static/rev/button/button-26e4094f33.js',
             modal: '/dist/static/rev/global/plugins/modal/eb-mod-a538c1ee26.js',
             form: {
-                factory: '/dist/static/rev/overlays/global/form-factory-98f8d352fd.js',
+                factory: './js/form-factory-98f8d352fd.js',
                 strings: {
-                    en: '/dist/static/rev/overlays/global/form-strings-en-4b3eae83f1.js'
+                    en: './js/form-strings-en-4b3eae83f1.js'
                 },
                 recaptcha: '/dist/static/rev/overlays/global/re-captcha-c4be51f848.js',
                 captcha: '/static/js/overlays/global/captcha.1.0.0.min.js',
                 fb: '/dist/static/rev/overlays/global/fb-5946e380c1.js',
-                google: '/dist/static/rev/overlays/global/google_client-3c20b6bbfe.js',
+                google: './js/google_client-3c20b6bbfe.js',
                 passwordMeter: '/dist/static/rev/plugins/pwd_strengthmeter/pwd_strength-c560d80215.js',
-                passwordValidator: '/dist/static/rev/overlays/global/password_strongth_validation-084620551a.js'
+                passwordValidator: './js/password_strongth_validation-084620551a.js'
             },
-            expander: '/dist/static/rev/global/js/eba/expander_v1-b2c478eb8f.js',
-            expander2: '/dist/static/rev/global/js/eba/expander_v2-cf3d7aa5e6.js',
+            expander: './js/expander_v1-b2c478eb8f.js',
+            expander2: './js/eba/expander_v2-cf3d7aa5e6.js',
             css: {
                 modal: '/dist/static/rev/global/plugins/modal/eb-mod-130cbb60ab.css',
                 skinny: '/dist/static/rev/overlays/global/susi-64e57874c2.css',
@@ -74,8 +74,8 @@
                 mwAccountRecovery: '/dist/static/rev/scss/styles/local/account/mw_account_recovery-2de6a45677.css',
                 addressModal: '/dist/static/rev/scss/styles/local/account/address-modal-093216a4a7.css'
             },
-            safari_11: '/dist/static/rev/global/js/safari_11-dfcbe7a134.js',
-            safari_11_mw: '/dist/static/rev/global/js/safari_11_mw-265af944dd.js',
+            safari_11: './js/safari_11-dfcbe7a134.js',
+            safari_11_mw: './js/safari_11_mw-265af944dd.js',
             swipe: '/mobile_web/_/js/jquery.detectswipe.2.1.1.a.min.js',
             accountRecovery: '/dist/static/rev/account/account-recovery-2c5d34b42a.js',
             signout: '/dist/static/rev/overlays/global/signout_csrf-5788a3f173.js',
@@ -89,41 +89,6 @@
     <link rel="icon" type="image/png" href="" sizes="57x57">
     <link rel="icon" type="image/png" href="" sizes="72x72">
     <link rel="icon" type="image/png" href="" sizes="76x76">
-    <link rel="apple-touch-icon" href="https://static.ebates.com/static/images/favicons-r/icon-192x192.png">
-    <link rel="apple-touch-icon-precomposed" href="https://static.ebates.com/static/images/favicons-r/icon-192x192.png">
-    <link rel="apple-touch-icon" sizes="57x57" href="https://static.ebates.com/static/images/favicons-r/icon-57x57.png">
-    <link rel="apple-touch-icon-precomposed" sizes="57x57"
-          href="https://static.ebates.com/static/images/favicons-r/favicon-57x57.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="https://static.ebates.com/static/images/favicons-r/icon-72x72.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72"
-          href="https://static.ebates.com/static/images/favicons-r/icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="https://static.ebates.com/static/images/favicons-r/icon-76x76.png">
-    <link rel="apple-touch-icon-precomposed" sizes="76x76"
-          href="https://static.ebates.com/static/images/favicons-r/icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114"
-          href="https://static.ebates.com/static/images/favicons-r/icon-114x114.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114"
-          href="https://static.ebates.com/static/images/favicons-r/icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120"
-          href="https://static.ebates.com/static/images/favicons-r/icon-120x120.png">
-    <link rel="apple-touch-icon-precomposed" sizes="120x120"
-          href="https://static.ebates.com/static/images/favicons-r/icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144"
-          href="https://static.ebates.com/static/images/favicons-r/icon-144x144.png">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144"
-          href="https://static.ebates.com/static/images/favicons-r/icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152"
-          href="https://static.ebates.com/static/images/favicons-r/icon-152x152.png">
-    <link rel="apple-touch-icon-precomposed" sizes="152x152"
-          href="https://static.ebates.com/static/images/favicons-r/icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180"
-          href="https://static.ebates.com/static/images/favicons-r/icon-180x180.png">
-    <link rel="apple-touch-icon-precomposed" sizes="180x180"
-          href="https://static.ebates.com/static/images/favicons-r/icon-180x180.png">
-    <link rel="apple-touch-icon" sizes="192x192"
-          href="https://static.ebates.com/static/images/favicons-r/icon-192x192.png">
-    <link rel="apple-touch-icon-precomposed" sizes="192x192"
-          href="https://static.ebates.com/static/images/favicons-r/icon-192x192.png">
     <meta name="msapplication-TileColor" content="#FFFFFF">
     <script type="text/javascript">
         var Userlogin = "false", ebates = ebates || {};
@@ -534,7 +499,7 @@
     @include('elements.footer')
     <script>
         (function () {
-            ebates.js.require("/global_files/js/jquery/plugins/jail/jail.fixed.0.9.5.min.js", function () {
+            ebates.js.require("./js/jail.fixed.0.9.5.min.js", function () {
                 $('img.lazy').asynchImageLoader();
             });
         })();
@@ -695,12 +660,6 @@
                 overlayCtrParam.localStorageName = localStorage.getItem(localStorageName);
             }
         }
-        setTimeout(function () {
-            overlayCtrParam.hasButton = document.querySelector('ebatestoolbar') ? true : false;
-            $.get('/ajax/modal/controller.htm' + location.search, overlayCtrParam, function (r) {
-                $('body').append(r);
-            });
-        }, buttonDetectionDelay)
     });
     $(function () {
         var defaultSlide = '<li><a data-click-category="Homepage" data-click-action="Click carousel banner" data-click-label="default_slide" data-campaign="carousel-how-to-earn" class="non-shopper" href="" data-amp-evt-sig="module_name,page_component" data-amp-evt-type="Click Module"\n' +

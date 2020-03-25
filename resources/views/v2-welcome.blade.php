@@ -3544,7 +3544,7 @@
                             }
                         }
 
-                        ebates.js.require("/dist/static/rev/stores/simon-73c8b8f5fd.js");
+                        ebates.js.require("./js/simon-73c8b8f5fd.js");
                         $(window).on('scroll', triggerBoostedCBViewEvt);
                     });
                 </script>
