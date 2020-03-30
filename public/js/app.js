@@ -78,7 +78,6 @@ ebates.stats.timeout = 500;
 ebates.stats.parentNavId = '0';
 ebates.stats.timeDelta = Date.now() - new Date(1585049051001);
 ebates.stats.device = 'NO' === 'YES' && 'T' || 'NO' === 'YES' && 'M' || 'D';
-ebates.stats.externalUrl = 'https://comev.ecbsn.com/index.php';
 ebates.stats.assetHost = '//static.ebates.com';
 ebates.ratPageMap = {
     'interstitial': {'pgt': 'redirect', 'pgn': "redirect/store"},

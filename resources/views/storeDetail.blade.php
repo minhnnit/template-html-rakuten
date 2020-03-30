@@ -8,8 +8,9 @@
     <link rel="stylesheet" type="text/css"
           href="{{url("/css/storeDetail/eb-mod-130cbb60ab.css")}}">
     {{--extend js--}}
-    <script src="{{url("/js/storeDetail/stats-58903ca627.js")}}"></script>
+{{--    <script src="{{url("/js/storeDetail/stats-58903ca627.js")}}"></script>--}}
     <script src="{{url("/js/storeDetail/jquery.menu-aim.min.js")}}"></script>
+    <script src="{{url("/js/action-button.js")}}"></script>
     <div class="tablet-content-body page-body">
 
 

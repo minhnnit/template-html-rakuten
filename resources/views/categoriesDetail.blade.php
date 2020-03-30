@@ -6,8 +6,7 @@
     <link rel="stylesheet" type="text/css"
           href="{{url("/css/categories/eb-mod-130cbb60ab.css")}}">
     {{--extend js--}}
-    <script src="{{url("/js/storeDetail/")}}"></script>
-    <script src="{{url("/js/storeDetail/")}}"></script>
+    <script src="{{url("/js/action-button.js")}}"></script>
     <div class="tablet-content-body page-body">
         <style>
             .tt-top-banner {
@@ -15777,20 +15776,18 @@
                                     </li>
                                     <li class="susi-captcha-cont-wrapper relative mar-10-t">
                                         <div class="susi-captcha-cont center block validation-required"
-                                             data-date="1585347714215" data-re-captcha-id="0">
+                                             data-date="1585347760011" data-re-captcha-id="0">
                                             <div style="width: 304px; height: 78px;">
                                                 <div>
-                                                    <iframe src="{{url("/html/anchor.html")}}"
+                                                    <iframe src="https://www.google.com/recaptcha/api2/anchor?ar=2&amp;k=6LeaJgcUAAAAAGvdeHpN60l0OrVT8znFD2fSB9Gl&amp;co=aHR0cHM6Ly93d3cucmFrdXRlbi5jb206NDQz&amp;hl=vi&amp;v=P6KLRNy7h3K160ZmYNUOAce7&amp;size=normal&amp;cb=fm2ei663ulou"
                                                             width="304" height="78" role="presentation"
-                                                            name="a-y4sxvfdrhk9q" frameborder="0" scrolling="no"
+                                                            name="a-mfvgv4jdl1k3" frameborder="0" scrolling="no"
                                                             sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe>
                                                 </div>
                                                 <textarea id="g-recaptcha-response" name="g-recaptcha-response"
                                                           class="g-recaptcha-response"
                                                           style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea>
                                             </div>
-                                            <iframe style="display: none;"
-                                                    src="{{url("/html/saved_resource(1).html")}}"></iframe>
                                         </div>
                                     </li>
                                     <li class="mar-10-t"><input type="button" value="Join Now"

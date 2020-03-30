@@ -6,8 +6,7 @@
     <link rel="stylesheet" type="text/css"
           href="{{url("/css/categories/eb-mod-130cbb60ab.css")}}">
     {{--extend js--}}
-    <script src="{{url("/js/storeDetail/")}}"></script>
-    <script src="{{url("/js/storeDetail/")}}"></script>
+    <script src="{{url("/js/action-button.js")}}"></script>
     <div class="tablet-content-body page-body">
 
 
@@ -26,11 +25,14 @@
                             <div class="rel">
                                 <div class="expand-content transition" style="height: 36px;">
                                     <div class="relative expander2-parent min toggle"><p
-                                                class="expand-me no-f-boosting f-reg lh-18 expander-applied">Shop today and
-                                            earn Cash Back at over 2,500 stores online. Find everything you need from men's,
+                                                class="expand-me no-f-boosting f-reg lh-18 expander-applied">Shop today
+                                            and
+                                            earn Cash Back at over 2,500 stores online. Find everything you need from
+                                            men's,
                                             children's and women’s clothing, accessories and shoes to home décor,
                                             electronics, toys and more. Shop the best sales and deals from your favorite
-                                            online stores - plus save with thousands of coupons and promo codes. Check back
+                                            online stores - plus save with thousands of coupons and promo codes. Check
+                                            back
                                             daily for new sales and hot deals to help you save with Cash Back at
                                             Rakuten!</p></div>
                                 </div>
@@ -58448,7 +58450,8 @@
 
                     <div class="gc-ovr-head center f-white">
                         <a data-href="/ajax/signin.htm"
-                           class="nohover cursor show-join-overlay add-delay eb-target-page f-16 lh-20 f-white">Sign In</a>
+                           class="nohover cursor show-join-overlay add-delay eb-target-page f-16 lh-20 f-white">Sign
+                            In</a>
                         <div class="pad-80-lr pad-40-t prox-b f-20 lh-24 mar-10-b">Welcome to</div>
                         <div class="ht-40 mar-20-b"><img
                                     src="{{url("/images/allStores/rakuten_nav_white.svg")}}"
@@ -58468,7 +58471,8 @@
                                 <div class="f-16 lh-20 mar-30-b">1. Select Welcome Bonus*</div>
                                 <ul class="gift-card-list">
                                     <li class="clearfix mar-30-b pad-30-r">
-                                        <input type="radio" value="WALMART10-201210" name="ebates.signup.promo" id="card1"
+                                        <input type="radio" value="WALMART10-201210" name="ebates.signup.promo"
+                                               id="card1"
                                                class="required flt" checked="true">
                                         <div class="flt gift-card-cont">
                                             <div class="fa-check-circle f-26 flt mar-20-r pos-rel" for="card1"></div>
@@ -58479,12 +58483,14 @@
                                         </div>
                                     </li>
                                     <li class="clearfix pad-30-r">
-                                        <input id="ebates" type="radio" value="SUJOIN10-201503" name="ebates.signup.promo"
+                                        <input id="ebates" type="radio" value="SUJOIN10-201503"
+                                               name="ebates.signup.promo"
                                                class="required flt mar-15-t">
                                         <div class="flt gift-card-cont">
                                             <div class="fa-check-circle f-26 flt mar-20-r pos-rel" for="card1"></div>
                                             <label class="icon rakuten-bonus flt" for="ebates"></label>
-                                            <label class="card-label flt f-14 lh-18 mar-10-t" for="ebates">$10 Rakuten Cash
+                                            <label class="card-label flt f-14 lh-18 mar-10-t" for="ebates">$10 Rakuten
+                                                Cash
                                                 Bonus</label>
                                         </div>
                                     </li>
@@ -58494,13 +58500,16 @@
                                 <div class="eb-susi-hidden-fields">
                                     <input type="hidden" name="skip_verify_password" value="true">
                                     <input type="hidden" name="action" value="create"><input type="hidden" name="terms"
-                                                                                             value="on"><input type="hidden"
-                                                                                                               name="urlIdentifier"
-                                                                                                               value="/stores/all/index.htm|All-Stores-Walmart-Hero-201510"><input
+                                                                                             value="on"><input
+                                            type="hidden"
+                                            name="urlIdentifier"
+                                            value="/stores/all/index.htm|All-Stores-Walmart-Hero-201510"><input
                                             type="hidden" name="type" value="All-Stores-Walmart-Hero-201510"><input
                                             type="hidden" name="_csrf" value="0fdd1b05-9079-4233-b16e-f30a5b753927"
-                                            class="eb-sec-token required-field"><input type="hidden" name="split_entry_id"
-                                                                                       value="661" class="required-field"></div>
+                                            class="eb-sec-token required-field"><input type="hidden"
+                                                                                       name="split_entry_id"
+                                                                                       value="661"
+                                                                                       class="required-field"></div>
                                 <div class="f-16 lh-20 mar-30-b">2. Join Now for Free</div>
                                 <div class="social-v2-desktop blk center pos-rel" style="height: 112px;">
                                     <a class="google-join button lg social goog mar-10-b dismiss-form-msg w-360"
@@ -58509,7 +58518,8 @@
                                         <span class="fa-google"></span>Continue with Google
                                     </a>
                                     <a class="fb-join button lg social fb mar-10-b dismiss-form-msg w-360"
-                                       href="https://www.rakuten.com/stores/all/index.htm#" title="Continue with Facebook"
+                                       href="https://www.rakuten.com/stores/all/index.htm#"
+                                       title="Continue with Facebook"
                                        tabindex="7" border="0" style="opacity: 0;">
                                         <span class="fa-facebook"></span>Continue with Facebook
                                     </a>
@@ -58773,7 +58783,7 @@
                                              data-date="1585347760011" data-re-captcha-id="0">
                                             <div style="width: 304px; height: 78px;">
                                                 <div>
-                                                    <iframe src="{{url("/html/anchor.html")}}"
+                                                    <iframe src="https://www.google.com/recaptcha/api2/anchor?ar=2&amp;k=6LeaJgcUAAAAAGvdeHpN60l0OrVT8znFD2fSB9Gl&amp;co=aHR0cHM6Ly93d3cucmFrdXRlbi5jb206NDQz&amp;hl=vi&amp;v=P6KLRNy7h3K160ZmYNUOAce7&amp;size=normal&amp;cb=fm2ei663ulou"
                                                             width="304" height="78" role="presentation"
                                                             name="a-mfvgv4jdl1k3" frameborder="0" scrolling="no"
                                                             sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe>
@@ -58782,14 +58792,14 @@
                                                           class="g-recaptcha-response"
                                                           style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea>
                                             </div>
-                                            <iframe style="display: none;"
-                                                    src="{{url("/html/saved_resource(1).html")}}"></iframe>
                                         </div>
                                     </li>
                                     <li class="mar-10-t"><input type="button" value="Join Now"
-                                                                class="button int blk join-button submit-button ht-50"></li>
+                                                                class="button int blk join-button submit-button ht-50">
+                                    </li>
                                     <li class="susi-refer susi-refer-cta ref-toggle-hide ref-toggle-show iblk mar-15-t">
-                                        <a class="referrer f-16 lh-20 pointer dismiss-form-msg nohover">Did someone refer
+                                        <a class="referrer f-16 lh-20 pointer dismiss-form-msg nohover">Did someone
+                                            refer
                                             you?</a>
                                     </li>
                                 </ul>
@@ -58807,11 +58817,13 @@
                                 </div>
                                 <div class="flt mar-10-l w-200 mar-40-b">
                                     <div class="steps round flt f-20 f-cent border-black">2</div>
-                                    <div class="steps-desc f-sec flt lh-18 mar-15-l">See the best coupons and deals.</div>
+                                    <div class="steps-desc f-sec flt lh-18 mar-15-l">See the best coupons and deals.
+                                    </div>
                                 </div>
                                 <div class="flt mar-10-l w-200 mar-40-b">
                                     <div class="steps round flt f-20 f-cent border-black">3</div>
-                                    <div class="steps-desc f-sec flt lh-18 mar-15-l">Get Cash Back by check or PayPal.</div>
+                                    <div class="steps-desc f-sec flt lh-18 mar-15-l">Get Cash Back by check or PayPal.
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -58828,7 +58840,8 @@
                             <div class="pos-abs border f-left modal shadow-36 bg-w pad-30-b pad-25-lr pad-25-t f-12 lh-16 round3"
                                  style="">
                                 To qualify for a Welcome Bonus, you must be a new Member and make minimum qualifying
-                                purchases totaling at least twenty-five dollars ($25) within ninety (90) days of becoming a
+                                purchases totaling at least twenty-five dollars ($25) within ninety (90) days of
+                                becoming a
                                 Member.
                             </div>
                         </div>
