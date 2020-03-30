@@ -1,5 +1,5 @@
 <div id="foot" class="foot">
-    <div class="container-fluid center eb-su-footer g119-terms" style="background:unset;">
+    {{--<div class="container-fluid center eb-su-footer g119-terms" style="background:unset;">
         <div class="container-fixed mar-50-tb" style="width:630px;">
             <p class="terms f-12 lh-15 prox-r pad-15-b" style="color:#747474;">* To qualify for a Welcome Bonus, you
                 must be a new Member and make minimum qualifying purchases totaling at least twenty-five dollars
@@ -15,7 +15,7 @@
                 <a class="eb-privacy f-11 pointer nohover" href=""                        target="_blank" data-event="Privacy">Privacy Policy</a>
             </div>
         </div>
-    </div>
+    </div>--}}
     <div id="footer-join" class="footer-join container-fluid prox-r blk bg-gry-6">
         <div class="container-fixed">
             <div class="blk blk0">

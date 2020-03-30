@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <script type="text/javascript" async="" defer=""
-            src="js/ral-1.6.2.js"></script>
+            src="{{url("/js/ral-1.6.2.js")}}"></script>
     <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
 
 
@@ -16,21 +16,21 @@
     <link rel="canonical" href="https://www.rakuten.com/">
 
     <link rel="stylesheet" type="text/css"
-          href="css/ebates-rebrand.css">
+          href="{{url("/css/ebates-rebrand.css")}}">
     <link rel="stylesheet" type="text/css"
-          href="css/app.css">
+          href="{{url("/css/app.css")}}">
     <link rel="stylesheet" type="text/css"
-          href="css/home.css">
+          href="{{url("/css/home.css")}}">
 
-    <link rel="stylesheet" type="text/css" href="css/home-page.css">
-    <script type="text/javascript" src="js/jquery-1.10.3.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{url("/css/home-page.css")}}">
+    <script type="text/javascript" src="{{url("/js/jquery-1.10.3.min.js")}}"></script>
     <script type="text/javascript"
-            src="js/jquery-migrate-1.2.1.min.js"></script>
+            src="{{url("/js/jquery-migrate-1.2.1.min.js")}}"></script>
 
-    <script src="js/ebates-main-7651353af0.js"></script>
-    <script src="js/eb-global-functions-2c321cbfce.js"></script>
-    <script src="js/app.js"></script>
-    <script src="js/home.js"></script>
+    <script src="{{url("/js/ebates-main-7651353af0.js")}}"></script>
+    <script src="{{url("/js/eb-global-functions-2c321cbfce.js")}}"></script>
+    <script src="{{url("/js/app.js")}}"></script>
+    <script src="{{url("/js/home.js")}}"></script>
     <link rel="icon" type="image/png" href="" sizes="32x32">
     <link rel="icon" type="image/png" href="" sizes="16x16">
     <link rel="icon" type="image/png" href="" sizes="57x57">

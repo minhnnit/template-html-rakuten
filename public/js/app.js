@@ -2,7 +2,7 @@ var ebates = ebates || {};
 ebates.src = {
     overlays: {skinny: '/dist/static/rev/overlays/skinny/skinny-d91d74ee2d.js'},
     store: {
-        overlay: '/stores/store_landing/overlay/js/validate.1.1.5.min.js',
+        overlay: './js/storeDetail/validate.1.1.5.min.js',
         btn_overlay: '/dist/static/rev/button/store_landing_overlay-7d2822834c.js',
     },
     suggest: {
@@ -28,13 +28,13 @@ ebates.src = {
         },
         recaptcha: '/dist/static/rev/overlays/global/re-captcha-c4be51f848.js',
         captcha: '/static/js/overlays/global/captcha.1.0.0.min.js',
-        fb: '/dist/static/rev/overlays/global/fb-5946e380c1.js',
+        fb: './js/storeDetail/fb-5946e380c1.js',
         google: './js/google_client-3c20b6bbfe.js',
         passwordMeter: '/dist/static/rev/plugins/pwd_strengthmeter/pwd_strength-c560d80215.js',
         passwordValidator: './js/password_strongth_validation-084620551a.js'
     },
     expander: './js/expander_v1-b2c478eb8f.js',
-    expander2: './js/eba/expander_v2-cf3d7aa5e6.js',
+    expander2: './js/storeDetail/expander_v2-cf3d7aa5e6.js',
     css: {
         modal: '/dist/static/rev/global/plugins/modal/eb-mod-130cbb60ab.css',
         skinny: '/dist/static/rev/overlays/global/susi-64e57874c2.css',

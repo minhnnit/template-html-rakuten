@@ -14,6 +14,15 @@
 Route::get('/', function () {
     return view('v2-welcome');
 });
+Route::get('/storeDetail', function () {
+    return view('storeDetail');
+});
+Route::get('/categoriesDetail', function () {
+    return view('categoriesDetail');
+});
+Route::get('/AllStores', function () {
+    return view('AllStores');
+});
 
 /*qvc_166x166.png*/
 
