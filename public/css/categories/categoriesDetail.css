@@ -1,0 +1,129 @@
+.tt-top-banner {
+    height: 400px;
+    position: absolute;
+    background-size: cover;
+    background-position: 50%;
+    z-index: -2;
+}
+
+.tt-top-banner .mask {
+    width: 100%;
+    height: 400px;
+    background-color: #333;
+    opacity: .4;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.tt-premium-banner {
+    height: 146px;
+    width: 1170px;
+}
+
+.tt-offer {
+    height: 358px;
+}
+
+.top-banner-subtitle {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.m-feature-store-grid .f-gry-dk2 {
+     color: #888;
+ }
+
+.m-feature-store-grid .button.reg.w-106 {
+    width: 106px;
+}
+ .alpha_filter.active {
+     color: #666;
+ }
+.apple-signin.hide {
+     display: none;
+ }
+
+.new-ui .button.apple-signin {
+    color: #252525;
+    border: 1px solid #252525;
+}
+.eb-form-mobile-webg135c .fb-custom-btn, .eb-form-mobile-web .fb-custom-btn {
+     width: 100%;
+ }
+
+.fb-custom-btn {
+    top: 56px;
+}
+
+.fb-login-button {
+    border: 3px solid #4267b2;
+    background-color: #4267b2;
+}
+
+.fb-login-button > span {
+    background-color: #4267b2;
+}
+
+.eb-form-mobile-webg135c .fb_iframe_widget.fb_iframe_widget_fluid {
+    height: 40px;
+}
+
+.eb-form-mobile-web .fb-custom-btn, .eb-form-mobile-webg135c .fb-custom-btn {
+    border-radius: 3px;
+    border: 3px solid #4267b2;
+    height: 46px;
+}
+
+.eb-form-mobile-web .fb-login-button, .eb-form-mobile-webg135c .fb-login-button {
+    border-style: hidden;
+}
+
+.eb-form-mobile-websu_v2 .fb_iframe_widget.fb_iframe_widget_fluid {
+    display: inline-block;
+    height: 46px;
+}
+
+.fb_iframe_widget.fb_iframe_widget_fluid {
+    display: block;
+    height: 46px;
+}
+
+.w-530 .fb-custom-btn {
+    left: 83px;
+}
+
+.w-693 .fb-custom-btn {
+    left: auto;
+}
+
+.w-500 .fb-custom-btn {
+    left: 70px;
+}
+
+.config-su .fb-custom-btn {
+    left: auto;
+}
+
+.eb-form-config-inlinesu .fb-custom-btn {
+    margin-left: 20px;
+}
+
+.mwview.home .eb-form-mobile-web .fb-custom-btn {
+    width: calc(100% - 10px);
+    border-radius: 0px;
+    border: 0px
+}
+
+.mwview.home .eb-form-mobile-web .fb-login-button > span {
+    top: 3px;
+    left: 3px;
+}
+ .border-3f-t-3 {
+     border-top: 3px solid #3f205f
+ }
+
+.border-30a-t-3 {
+    border-top: 3px solid #30adbf
+}
