@@ -1,0 +1,55 @@
+.pslv1 #disable,.pslv1 #similar-stores li,.pslv1 .jcarousel-next-horizontal,.pslv1 .jcarousel-prev-horizontal{background:transparent url(/global_files/layout2009/postshopping/images/sprite-pslayer.png) no-repeat 0 0;}
+.pslv2 #disable,.pslv2 #similar-stores li,.pslv2 .jcarousel-next-horizontal,.pslv2 .jcarousel-prev-horizontal{background:transparent url(/global_files/layout2009/postshopping/images/sprite-ps2012041900.png) no-repeat 0 0;}
+#ftt_backgroundPopup{display:none;position:fixed;height:100%;width:100%;top:0;left:0;background:#000;border:1px solid #cecece;z-index:9999;}
+#ftt_signupOverlay{height:auto;left:-30px;top:0px;padding:10px;position:absolute;z-index:99999;}
+.pslv1{background-color:#000;-webkit-border-radius:16px;-moz-border-radius:16px;border-radius:16px;width:712px;}
+.pslv2{width:709px;}
+#ftt_signupOverlay *{font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;text-decoration:none;}
+.msg-bar{font-size:18px;font-weight:bold;line-height:1.5em; padding:4px 50px;display:block;background-color:#fff;position:relative; height:24px; }
+#ftt_signupOverlay a{cursor:pointer;}
+#ftt_signupOverlay a.right{position:absolute;top:-6px;right:-6px;text-decoration:none;}
+#ftt_signupOverlay a#disable{width:34px;height:37px;display:block;}
+.pslv1 .msg-bar a#disable{background-position:-288px 0;}
+.pslv2 #ps_wrapper a#disable{background-position:0 -38px;}
+.pslv2 .msg-bar-info,.pslv2 #ps_wrapper,.pslv2 #similar-stores{border:1px solid #333;}
+.msg-bar-info{background-color:#2b8001;color:#fff;display:block;font-size:18px;font-weight:bold;height:24px;line-height:1.5em;padding:6px 50px;position:relative;}
+.pslv2 .msg-bar-info{border-top:0;border-bottom:0;}
+#ps_wrapper{background:#fff;display:block;position:relative;}
+.pslv1 #ps_wrapper{padding:0 50px 20px 50px;}
+.pslv2 #ps_wrapper{border-bottom:0;padding:20px 50px;}
+.ps-msg{color:#333;overflow:hidden;}
+.pslv1 .ps-msg{font-size:12px;line-height:2.5em;}
+.pslv2 .ps-msg{font-size:14px;line-height:26px;}
+.pslv1 .ps-msg-head{margin:0 0 3px 0;}
+.pslv2 .ps-msg-head{margin:0 0 10px 0;}
+.ps-msg-head h1{color:#333;font-size:2em;}
+.ps-msg-head h1.green{color:#060;}
+.psdays{font-size:16px;}
+#ftt_signupOverlay .fwb{font-weight:bold;}
+#ftt_signupOverlay .tdu{text-decoration:underline;}
+#similar-stores{height:92px;overflow:hidden;}
+.pslv1 #similar-stores{background:#d1e4c8;border:1px solid #2b8001;}
+.pslv2 #similar-stores{background:#fff;border-top:0;}
+#similar-stores ul li{text-align:center;}
+.pslv1 #similar-stores ul li{background:#fff;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;border:1px solid #ccc;height:64px;margin:9px 5px;padding:5px 0 0;width:110px;}
+.pslv2 #similar-stores ul li{background-position:-42px 0;height:65px;margin:9px 0;padding:6px 0 0;width:121px;}
+.round-top{-webkit-border-top-left-radius:10px;-webkit-border-top-right-radius:10px;-moz-border-radius-topleft:10px;-moz-border-radius-topright:10px;border-top-left-radius:10px;border-top-right-radius:10px;}
+.round-bottom{-webkit-border-bottom-right-radius:10px;-webkit-border-bottom-left-radius:10px;-moz-border-radius-bottomright:10px;-moz-border-radius-bottomleft:10px;border-bottom-right-radius:10px;border-bottom-left-radius:10px;}
+
+.shadow {-moz-box-shadow:1px 2px 3px #666;-webkit-box-shadow:1px 2px 3px #666;box-shadow:1px 2px 3px #666;}
+#similar-stores div.cb{color:#f30;font-size:1em;height:18px;overflow:hidden;padding:9px 0 0 0;}
+#similar-stores  div.cb.upto{height:32px;line-height:1.1;width:80px;padding:3px 0 0;margin:0 auto;}
+.pslv1 .jcarousel-container-horizontal{padding:0 50px}
+.pslv2 .jcarousel-container-horizontal{padding:0 51px}
+.pslv1 .jcarousel-container-horizontal,.pslv1 .jcarousel-clip-horizontal{height:92px;width:610px;}
+.pslv2 .jcarousel-container-horizontal,.pslv2 .jcarousel-clip-horizontal{height:92px;width:605px;}
+.jcarousel-skin-tango .jcarousel-clip{overflow:hidden;}
+.pslv1 .jcarousel-skin-tango .jcarousel-next-horizontal{right:8px;background-position:-247px 0;}
+.pslv2 .jcarousel-skin-tango .jcarousel-next-horizontal{right:8px;background-position:0 -76px;}
+.pslv1 .jcarousel-skin-tango .jcarousel-prev-horizontal{left: 8px;background-position:-206px 0;}
+.pslv2 .jcarousel-skin-tango .jcarousel-prev-horizontal{left: 8px;}
+.jcarousel-skin-tango .jcarousel-next-horizontal, .jcarousel-skin-tango .jcarousel-prev-horizontal{position:absolute;cursor:pointer;}
+.pslv1 .jcarousel-next-horizontal,.pslv1 .jcarousel-prev-horizontal{top:27px;width:37px;height:37px;}
+.pslv2 .jcarousel-prev-horizontal{top:27px;width:37px;height:37px;}
+.pslv2 .jcarousel-next-horizontal{top:9px;width:44px;height:71px;}
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal, .jcarousel-skin-tango .jcarousel-next-disabled-horizontal{cursor: default;background:none;}

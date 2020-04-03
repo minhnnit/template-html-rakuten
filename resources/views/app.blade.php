@@ -45,9 +45,10 @@
 </head>
 <body id="home" class="noSubTab new-ui new-ui  phase-2 branch-banner-off">
 <div id="container" class=" dwview">
-    @include('elements.header')
+
+    @include(!empty($elementsHeader)?$elementsHeader:'elements.header')
     @yield('content')
-    @include('elements.footer')
+    @include(!empty($elementsFooter)?$elementsFooter:'elements.footer')
 </div>
 <div class="container-fluid footer-fixed prox-r pos-fix min ">
 

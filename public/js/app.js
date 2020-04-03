@@ -48,7 +48,7 @@ ebates.src = {
     safari_11_mw: './js/safari_11_mw-265af944dd.js',
     swipe: '/mobile_web/_/js/jquery.detectswipe.2.1.1.a.min.js',
     accountRecovery: '/dist/static/rev/account/account-recovery-2c5d34b42a.js',
-    signout: '/dist/static/rev/overlays/global/signout_csrf-5788a3f173.js',
+    signout: './js/myAccount/signout_csrf-5788a3f173.js',
     addressModal: '/dist/static/rev/account/address-modal-2471f0d637.js'
 };
 var ebates = ebates || {};

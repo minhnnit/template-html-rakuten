@@ -23,6 +23,33 @@ Route::get('/categoriesDetail', function () {
 Route::get('/AllStores', function () {
     return view('AllStores');
 });
+Route::get('/my-account', function () {
+    return view('myAccount');
+});
+Route::get('/favorites', function () {
+    return view('favorites');
+});
+Route::get('/shopping-trips', function () {
+    return view('shoppingTrips');
+});
+Route::get('/pending-cashback', function () {
+    return view('pendingCashback');
+});
+Route::get('/big-fat', function () {
+    return view('bigFat');
+});
+Route::get('/account-settings', function () {
+    return view('accountSettings');
+});
+Route::get('/my-wallet', function () {
+    return view('myWallet');
+});
+Route::get('/reservations', function () {
+    return view('reservations');
+});
+Route::get('/subscriptions', function () {
+    return view('emailSubscriptions');
+});
 
 /*qvc_166x166.png*/
 
